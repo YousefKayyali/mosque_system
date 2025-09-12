@@ -1,0 +1,45 @@
+body{
+    background-color: #dddad7;
+}
+main .form{
+    --formDivWidth:650px;
+    width: var(--formDivWidth);
+    height: 250px;
+    margin: 50px auto;
+    background-color: #e2e1e0;
+}
+main .form input{
+    height: 30px;
+    margin: 10px;
+}
+.submit-button {
+    width: calc(var(--formDivWidth) - 100px);
+    height: 40px;
+    margin: 25px 50px;
+    background-color: #5a5958;
+    font-size: 20px;
+    word-spacing: 3px;
+    border: 1px solid #5a5958;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+    background-color: #383a3b;
+}
+.error-message {
+    display: block;
+    color: red;
+    text-align: center;
+    width: calc(var(--formDivWidth) - 10px);
+    margin: 5px 10px;
+    font-size: 20px;
+}
+.success-message {
+    display: block;
+    color: rgb(43, 141, 64);
+    text-align: center;
+    width: calc(var(--formDivWidth) - 10px);
+    margin: 5px 10px;
+    font-size: 20px;
+}

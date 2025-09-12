@@ -1,0 +1,41 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if title %}
+    <title>{{ title }}</title>
+    {% else %}
+    <title>Home</title>
+    {% endif %}
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+    {% block css %}{% endblock %}
+</head>
+
+<body>
+    <header>
+        <div class="heading">
+            <h1>مسجد بلال بن رباح</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="{% url 'home' %}">الصفحه الرئيسية</a></li>
+                <li><a href="{% url 'add_memorization' %}">تسجيل التسميع</a></li>
+                <li><a href="">اضافة مشرف</a></li>
+                <li><a href="{% url 'add_student' %}">اضافة طالب</a></li>
+                <li class="logout"><a href="{% url 'logout' %}">تسجيل خروج</a></li>
+            </ul>
+        </nav>
+    </header>
+    {% block body %}{% endblock %}
+</body>
+
+</html>

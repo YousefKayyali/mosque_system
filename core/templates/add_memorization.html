@@ -1,0 +1,55 @@
+{% extends 'home.html' %}
+{% load static %}
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/add_memorization.css' %}">
+{% endblock %}
+{% block body %}
+<form action="" method="post" class="memorization-form">
+    {% csrf_token %}
+    <div class="first-row">
+
+        <select name="student" required class="relement">
+            <option value="">-- أختار الطالب --</option>
+            {% for st in students %}
+            <option value="{{ st.student_id }}">
+                {{ st.profile.first_name }} {{ st.profile.middle_name }} {{ st.profile.last_name }}
+            </option>
+            {% endfor %}
+        </select>
+        {{form.from_page}}
+        {{form.to_page}}
+        {{form.from_verse}}
+        {{form.to_verse}}
+    </div>
+    <div class="secand-row">
+        {{form.number_of_misses}}
+        <select name="evaluation" required>
+            <option value="">-- التقيم --</option>
+            <option value="good"> جيد </option>
+            <option value="very good">جيد جدا</option>
+            <option value="excellen">ممتاز</option>
+            <option value="did not memorize">لم يسمع</option>
+        </select>
+        <select name="memorization_type" placeholder="-- نوع التسميع --">
+            <option value="">-- نوع التسميع --</option>
+            <option value="new">قديم</option>
+            <option value="old"> جديد</option>
+            <option value="old plus new"> قديم و جديد</option>
+        </select>
+    </div>
+    <div class="final-row">
+        {{form.note}}
+    </div>
+    <div></div>
+    {%if messages%}
+    {%for message in messages%}
+    <span class="{{message.tags}}-message">{{message}}</span>
+    {% endfor %}
+    {% endif %}
+    <div class="submit-button">
+        <button type="submit">تسجيل التسميع</button>
+    </div>
+
+</form>
+
+{% endblock %}

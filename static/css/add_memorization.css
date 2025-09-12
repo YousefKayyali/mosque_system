@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #dddad7;
+}
+.memorization-form{
+    display: block;
+    width: 900px;
+    margin: 10px auto;
+    background-color: #e2e1e0;
+    
+}
+.first-row{
+    display: flex;
+        justify-content: space-between;
+}
+.first-row input,.first-row select{
+    width: calc(95% / 5);
+    margin-top :5px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.lelement{
+    margin-left: 5px;
+}
+.relement {
+    margin-right: 5px;
+}
+.secand-row input ,.secand-row select{
+    width: calc(95% / 5);
+    margin-top: 5px;
+    margin-bottom: 10px;
+        font-size: 18px;
+}
+.final-row{
+    width:30%;
+}
+.final-row textarea{
+    width: 100%;
+    height: 75px;
+    resize: none;
+}
+.submit-button{
+    width: 250px;
+    height: 50px;
+    margin: 5px auto;
+}
+button{
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 10px;
+    color: white;
+    background-color: #5a5958;
+    font-size: 20px;
+    border: 1px solid #5a5958;
+}
+button:hover{
+    background-color: #383a3b;}
+.error-message {
+    display: block;
+    color: red;
+    text-align: center;
+    width: calc(var(--formDivWidth) - 10px);
+    margin: 20px 10px;
+    font-size: 20px;
+}
+
+.success-message {
+    display: block;
+    color: rgb(43, 141, 64);
+    text-align: center;
+    width: calc(var(--formDivWidth) - 10px);
+    margin: 20px 10px;
+    font-size: 20px;
+}

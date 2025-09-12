@@ -1,0 +1,23 @@
+2025-09-12 19:59:43,001 - check data  - INFO - 1 1 1 49 1 286 good 3  2025-09-12 16:59:43.001199+00:00 new
+2025-09-12 20:03:38,110 - check data  - INFO - 1
+2025-09-12 20:03:39,683 - check data  - INFO - 1
+2025-09-12 20:03:39,684 - check data  - INFO - 1 1 1 49 1 286 good 3  2025-09-12 17:03:39.684143+00:00 new
+2025-09-12 20:12:44,813 - check data  - INFO - 1
+2025-09-12 20:13:00,615 - check data  - INFO - 1
+2025-09-12 20:13:00,615 - check data  - INFO - 1 1 128 150 1 165 good 2  2025-09-12 17:13:00.615729+00:00 new
+2025-09-12 20:13:00,617 - check data  - INFO - <ul class="errorlist"><li>record_date<ul class="errorlist" id="id_record_date_error"><li>This field is required.</li></ul></li><li>user<ul class="errorlist" id="id_user_error"><li>This field is required.</li></ul></li></ul>
+2025-09-12 20:13:00,695 - check data  - INFO - 1
+2025-09-12 20:14:30,885 - check data  - INFO - 1
+2025-09-12 20:14:33,219 - check data  - INFO - 1
+2025-09-12 20:14:33,219 - check data  - INFO - 1 1 128 150 1 165 good 2  2025-09-12 17:14:33.219867+00:00 new
+2025-09-12 20:14:33,221 - check data  - INFO - <ul class="errorlist"><li>user<ul class="errorlist" id="id_user_error"><li>This field is required.</li></ul></li></ul>
+2025-09-12 20:14:33,274 - check data  - INFO - 1
+2025-09-12 20:16:16,285 - check data  - INFO - 1
+2025-09-12 20:16:17,821 - check data  - INFO - 1
+2025-09-12 20:16:17,821 - check data  - INFO - 1 1 128 150 1 165 good 2  2025-09-12 17:16:17.821494+00:00 new
+2025-09-12 20:17:48,845 - check data  - INFO - 1
+2025-09-12 20:18:24,043 - check data  - INFO - 1
+2025-09-12 20:18:24,096 - check data  - INFO - 1
+2025-09-12 21:11:38,512 - check data  - INFO - 1
+2025-09-12 21:14:04,617 - check data  - INFO - 1
+2025-09-12 21:14:04,679 - check data  - INFO - 1

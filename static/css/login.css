@@ -1,0 +1,70 @@
+body{
+    background-image: url('../images/system_background.jpg');
+    background-size: cover;
+    background-color: #e8e0d5;
+    font-family: "Amiri",serif;
+}
+.login{
+    --loginDivWidth:400px;
+    --loginDivHeight: 270px;
+    padding: 15px;
+    width: var(--loginDivWidth);
+    height: var(--loginDivHeight);
+    margin:  300px auto;
+    background-color: #e8e0d5;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+.login h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.login .form-group{
+    --formDivWidth:calc(var(--loginDivWidth) - 50px);
+    --formDivHeight: 40px;
+    width: var(--formDivWidth);
+    height: var(--formDivHeight);
+    margin: 10px auto;
+    
+}
+.login .form-group input{
+    display: inline-block;
+    width: calc(var(--formDivWidth) - 10px);
+    height: calc(var(--formDivHeight));
+    border: 1px solid #ccc;
+    font-size: 20px;
+    transition:  0.3s;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    
+}
+.login .form-group input:focus{
+border-color: #e8e0d5;
+outline-color: #e8e0d5;
+}
+.submit-button{
+    width: calc(var(--loginDivWidth) - 100px);
+    height: 40px ;
+    margin: 10px 50px;
+    background-color: #5a5958;
+    font-size: 20px;
+    word-spacing: 3px;
+    border: 1px solid #5a5958;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+ .submit-button:hover {
+    background-color: #383a3b;
+}
+.error-message{
+    display: block;
+    color:red;
+    text-align: center;
+    width: calc(var(--formDivWidth) - 10px);
+    margin: 5px 10px;
+    font-size: 20px;
+}
