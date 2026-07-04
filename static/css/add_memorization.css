@@ -1,78 +1,213 @@
-*{
+  * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Amiri", serif;
 }
-body{
-    background-color: #dddad7;
+
+body {
+    background-color: #94a9a375;
 }
-.memorization-form{
+
+textarea {
     display: block;
-    width: 900px;
-    margin: 10px auto;
-    background-color: #e2e1e0;
-    
-}
-.first-row{
-    display: flex;
-        justify-content: space-between;
-}
-.first-row input,.first-row select{
-    width: calc(95% / 5);
-    margin-top :5px;
-    margin-bottom: 10px;
-    font-size: 18px;
-}
-.lelement{
-    margin-left: 5px;
-}
-.relement {
-    margin-right: 5px;
-}
-.secand-row input ,.secand-row select{
-    width: calc(95% / 5);
-    margin-top: 5px;
-    margin-bottom: 10px;
-        font-size: 18px;
-}
-.final-row{
-    width:30%;
-}
-.final-row textarea{
-    width: 100%;
-    height: 75px;
     resize: none;
-}
-.submit-button{
-    width: 250px;
-    height: 50px;
-    margin: 5px auto;
-}
-button{
-    display: block;
-    width: 100%;
-    height: 100%;
-    position: relative;
-    bottom: 10px;
-    color: white;
-    background-color: #5a5958;
+    height: 100px;
+    width: calc(100% - 30px);
+    /* Adjusted for smaller screens */
     font-size: 20px;
-    border: 1px solid #5a5958;
+    /* Reduced font size for mobile */
+    margin: 15px auto;
+    border-radius: 10px;
 }
-button:hover{
-    background-color: #383a3b;}
-.error-message {
+
+.add_memorization form,
+.student-info {
+width: 95%;
+    max-width: 1150px;
+    /* Limit the max width for large screens */
+    background-color: #ffffffb6;
+    margin: 30px auto;
+    padding: 20px;
+    /* Added padding */
+    border-radius: 10px;
+    box-shadow: 0 0 0px 2px #80bbaa0a, 0 0 2px 1px #94a9a39c inset;
+}
+
+.add_memorization form .input-set {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.add_memorization form .input-set .form-input {
+    flex: 1 1 150px;
+    font-size: 18px;
+    height: 45px;
+    margin: 0;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+    width: calc(100% - 40px);
+    height: 50px;
+    margin: 20px auto;
+    background-color: #196c78d4;
+    font-size: 20px;
+    word-spacing: 3px;
+    border: 1px solid #196b789a;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #05333a9a;
+}
+
+.student-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.student-info  {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.student-info  .show-student-details{
+    width: 65%;
+}
+
+.absense-check{
+    width: 10%;
+
+}
+.table-header,
+.table-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.table-header .column-header,
+.table-row .card {
+    flex: 1;
+   text-align: center;
+    padding: 0;
+    margin-left: 7px;
+    height: 28px;
+}
+
+.table-row .card {
+    background-color: #196c78d4;
+    color: white;
+    border-radius: 5px;
+}
+
+.error-message,
+.success-message {
     display: block;
     color: red;
     text-align: center;
-    width: calc(var(--formDivWidth) - 10px);
-    margin: 20px 10px;
-    font-size: 20px;
+    width: 100%;
+    margin: 5px auto;
+    font-size: 16px;
+}
+.temp-span{
+    color: #05333a9a;
+}
+.success-message {
+    color: rgb(43, 141, 64);
 }
 
-.success-message {
-    display: block;
-    color: rgb(43, 141, 64);
-    text-align: center;
-    width: calc(var(--formDivWidth) - 10px);
-    margin: 20px 10px;
-    font-size: 20px;
+.add_memorization form .input-set .form-input:focus,
+textarea:focus {
+    border-color: #05333a9a;
 }
+.absense-check .table-row .card{
+    background-color: transparent;
+}
+.absense-check .table-row .card input{
+    background-color: #196b789a;
+}
+.absense-check form  button {
+        border-radius: 15px;
+}
+.add-point{
+    width: 25%;
+}
+.inline-button{
+    display: inline-block;
+    width: 50px;
+    border-radius: 10px;
+    margin: 0 0;
+    height: 25px;
+    font-size: 16px;
+}
+.add-point .table-row .point-card form{
+    height: 10px;
+}
+.add-point  .table-row .point-card form input{
+    width: 50px;
+}
+#add-point-note{
+    width: 166px;
+}
+.add-point .table-row{
+    margin-bottom: 28px;
+}
+
+@media (max-width: 1024px) {
+
+    .add_memorization form,
+    .student-info {
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+    .add_memorization form,
+    .student-info {
+        width: 95%;
+    }
+    .add_memorization form .input-set {
+        flex-direction: column;
+        gap: 0;
+    }
+    .add_memorization form .input-set .form-input {
+        flex: auto;
+        margin-bottom: 15px;
+        font-size: 16px;
+        height: 40px;
+    }
+    textarea {
+        font-size: 16px;
+    }
+    button {
+        width: 100%;
+        margin: 20px auto;
+    }
+    .student-info {
+        flex-direction: column;
+    }
+
+    .student-info>div {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+        .student-info {
+            flex-direction: column;
+        }
+    
+        .student-info .show-student-details {
+            width: 100% !important;
+            flex: 1 1 100%;
+        }
+    
+        .student-info>div {
+            width: 100%;
+        }
+}  

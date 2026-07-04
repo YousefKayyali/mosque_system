@@ -1,0 +1,91 @@
+:root {
+    direction: rtl;
+    font-family: "Amiri", serif;
+}
+
+body {
+    background-color: #f0f8ff;
+}
+
+.student-form {
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.student-form select {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.student-info {
+    width: 95%;
+    max-width: 1200px;
+    margin: 20px auto;
+    background: #fff9;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.table-header,
+.table-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.column-header,
+.card {
+    flex: 1;
+    text-align: center;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.table-header .column-header {
+    font-weight: bold;
+    background: #196b78;
+    color: #fff;
+}
+
+.table-row .card {
+    background: #196b78;
+    color: #fff;
+}
+
+.edit-input {
+    width: 90%;
+}
+
+textarea.edit-input {
+    width: 90%;
+    height: 50px;
+}
+
+.inline-button {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    font-size: 14px;
+    margin: 2px;
+    border-radius: 5px;
+    background: #1f206e;
+    color: white;
+    cursor: pointer;
+}
+
+.success-message {
+    color: green;
+    text-align: center;
+    margin: 5px;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+    margin: 5px;
+}

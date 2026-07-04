@@ -1,68 +1,94 @@
+:root {
+    direction: rtl;
+    font-family: "Amiri", serif;
+    --main-color: #f0f8ff;
+    --sub-color: #196b78;
+    --accent-color: #1f206e;
+}
 
- :root {
-     direction: rtl;
-     font-family: "Amiri", serif;
- }
+body {
+    background-color: var(--main-color);
+}
 
- header {
-     width: 100%;
- }
+header {
+    width: 100%;
+}
 
- .heading {
-     background-color: #c6bdb1;
-     padding: 20px;
-     text-align: center;
- }
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 
- .heading h1 {
-     font-size: clamp(24px, 5vw, 50px);
-     margin: 0;
-     word-spacing: 5px;
- }
+.heading {
+    display: block;
+    background-color: var(--sub-color) !important;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
 
- header nav {
-     background-color: #d3cec8;
- }
+header nav {
+    margin: 0;
+    background-color: #306e77 !important;
+    color: white;
+    border-radius: 2px;
+}
 
- header nav ul {
-     display: flex;
-     justify-content: flex-end;
-     align-items: center;
-     list-style: none;
-     margin: 0;
-     padding: 10px 20px;
- }
+header nav ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(5, 10%);
+    justify-content: start;
+    padding-inline-start: 0;
+}
 
- header nav ul li {
-     margin: 0 15px;
-     font-size: 1.2em;
- }
+header nav ul li {
+    padding: 15px;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    border-radius: 3px;
+}
 
- header nav ul li.logout {
-     margin-left: auto;
-     /* pushes logout to the far left in RTL */
- }
+header nav ul li ul {
+    display: none;
+    position: absolute;
+    z-index: 5;
+    background-color: #306e77d4;
+    border-radius: 3px;
+    width: 100%;
+    right: 0;
+    top: 100%;
+}
 
- header nav ul li a {
-     text-decoration: none;
-     color: #000;
-     transition: color 0.3s;
- }
+header nav ul li:hover ul {
+    display: block;
+}
 
- header nav ul li a:hover {
-     color: #444;
- }
+a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+a::selection {
+    color: white;
+}
+
+header nav ul a:hover {
+    background-color: #40676dd4;
+}
 
 @media (max-width: 768px) {
     header nav ul {
-        flex-direction: column;
+        grid-template-columns: 1fr;
         justify-content: center;
-        align-items: center;
-        padding: 15px 0;
+        text-align: center;
     }
 
     header nav ul li {
-        margin: 8px 0;
-        font-size: 1em;
+        display: block;
     }
 }

@@ -27,15 +27,41 @@
         </div>
         <nav>
             <ul>
-                <li><a href="{% url 'home' %}">الصفحه الرئيسية</a></li>
-                <li><a href="{% url 'add_memorization' %}">تسجيل التسميع</a></li>
-                <li><a href="">اضافة مشرف</a></li>
-                <li><a href="{% url 'add_student' %}">اضافة طالب</a></li>
-                <li class="logout"><a href="{% url 'logout' %}">تسجيل خروج</a></li>
+                <a href="{% url 'home' %}">
+                    <li>الصفحه الرئيسية</li>
+                </a>
+                <a href="{% url 'add_memorization' %}">
+                    <li>تسجيل التسميع</li>
+                </a>
+                {% if 3 not in request.session.privileges %}
+                <a href="{% url 'add_user' %}">
+                    <li>اضافة مشرف</li>
+                </a>
+                {% endif %}
+                <li> الطالب
+                    <ul>
+                        <a href="{% url 'add_student' %}">
+                            <li>اضافة طالب</li>
+                        </a>
+                        <a href="{% url 'review_memorization' %}">
+                            <li>
+                                مراجعة طالب
+                            </li>
+                        </a>
+                    </ul>
+                </li>
+
+                <a href="{% url 'logout' %}">
+                    <li class="logout">تسجيل خروج</li>
+                </a>
+
             </ul>
         </nav>
     </header>
-    {% block body %}{% endblock %}
+    {% block body %}
+
+    {% endblock %}
+    {% block scripts %}{% endblock %}
 </body>
 
 </html>

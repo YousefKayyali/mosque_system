@@ -1,0 +1,180 @@
+{% extends 'home.html' %}
+{% load static %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/student_review.css' %}">
+{% endblock %}
+
+{% block body %}
+<main>
+    <div class="student-form">
+        <select id="student">
+            <option value="">-- اختر الطالب --</option>
+            {% for s in students %}
+            <option value="{{ s.student_id }}">
+                {{ s.profile__first_name }} {{ s.profile__middle_name }} {{ s.profile__last_name }}
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <div id="memorization-container" style="display: none;">
+        <div class="student-info">
+            <div class="show-student-details">
+                <h2 id="student-name" style="margin-bottom: 15px; color: #196c78d4;"></h2>
+                <div class="table-header">
+                    <div class="column-header">التاريخ</div>
+                    <div class="column-header">النوع</div>
+                    <div class="column-header">من صفحة</div>
+                    <div class="column-header">عدد الصفحات</div>
+                    <div class="column-header">التقييم</div>
+                    <div class="column-header">الأخطاء</div>
+                    <div class="column-header">الملاحظات</div>
+                    <div class="column-header">إجراءات</div>
+                </div>
+                <div id="memorization-records"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="message-container"></div>
+</main>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const studentSelect = document.getElementById('student');
+    const memorizationContainer = document.getElementById('memorization-container');
+    const recordsContainer = document.getElementById('memorization-records');
+    const studentNameEl = document.getElementById('student-name');
+    const messageContainer = document.getElementById('message-container');
+
+    function showMessage(msg, success = true) {
+        messageContainer.innerHTML = `<span class="${success ? 'success-message' : 'error-message'}">${msg}</span>`;
+        setTimeout(() => messageContainer.innerHTML = '', 3000);
+    }
+
+    function getCookie(name) {
+        let cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const c = cookies[i].trim();
+                if (c.startsWith(name + '=')) {
+                    cookieValue = decodeURIComponent(c.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+
+    function createRow(record) {
+        const isEditing = record.isEditing || false;
+        return `
+    <div class="table-row" data-id="${record.memorization_id}">
+        <div class="card">${record.record_date}</div>
+        <div class="card">${isEditing ? `<input type="text" class="edit-input" name="memorization_type" value="${record.memorization_type}">` : record.memorization_type}</div>
+        <div class="card">${isEditing ? `<input type="number" class="edit-input" name="from_page" value="${record.from_page}">` : record.from_page}</div>
+        <div class="card">${isEditing ? `<input type="number" step="0.5" class="edit-input" name="pages" value="${record.pages}">` : record.pages}</div>
+        <div class="card">${isEditing ? `<input type="text" class="edit-input" name="evaluation" value="${record.evaluation}">` : record.evaluation}</div>
+        <div class="card">${isEditing ? `<input type="number" class="edit-input" name="number_of_misses" value="${record.number_of_misses}">` : record.number_of_misses}</div>
+        <div class="card">${isEditing ? `<textarea class="edit-input" name="note">${record.note}</textarea>` : record.note}</div>
+        <div class="card">
+            ${isEditing ? `
+            <button class="inline-button save-btn" data-action="save">حفظ</button>
+            <button class="inline-button cancel-btn" data-action="cancel">إلغاء</button>
+            `: `
+            <button class="inline-button edit-btn" data-action="edit">تعديل</button>
+            <button class="inline-button delete-btn" data-action="delete">حذف</button>
+            `}
+        </div>
+    </div>
+    `;
+    }
+
+    let currentRecords = [];
+
+    function loadRecords(studentId) {
+        fetch(`/get_records/${studentId}/`)
+            .then(r => r.json())
+            .then(data => {
+                if (data.success) {
+                    currentRecords = data.data;
+                    memorizationContainer.style.display = 'block';
+                    studentNameEl.textContent = studentSelect.options[studentSelect.selectedIndex].text;
+                    recordsContainer.innerHTML = currentRecords.length === 0 ? '<p style="text-align:center;">لا توجد سجلات</p>' : currentRecords.map(createRow).join('');
+                    attachListeners();
+                } else {
+                    showMessage('حدث خطأ في التحميل', false);
+                }
+            }).catch(err => {
+                showMessage('حدث خطأ في الاتصال بالخادم', false);
+                console.error(err);
+            });
+    }
+
+    function attachListeners() {
+        recordsContainer.querySelectorAll('button').forEach(btn => {
+            btn.onclick = () => {
+                const row = btn.closest('.table-row');
+                const id = row.dataset.id;
+                const action = btn.dataset.action;
+                const record = currentRecords.find(r => r.memorization_id == id);
+
+                if (action == 'edit') {
+                    record.isEditing = true;
+                    recordsContainer.innerHTML = currentRecords.map(createRow).join('');
+                    attachListeners();
+                }
+                else if (action == 'cancel') {
+                    record.isEditing = false;
+                    recordsContainer.innerHTML = currentRecords.map(createRow).join('');
+                    attachListeners();
+                }
+                else if (action == 'save') {
+                    const inputs = row.querySelectorAll('.edit-input');
+                    let updated = {};
+                    inputs.forEach(i => updated[i.name] = i.value);
+                    fetch(`/update_record/${id}/`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json', 'X-CSRFToken': getCookie('csrftoken') },
+                        body: JSON.stringify(updated)
+                    }).then(r => r.json()).then(d => {
+                        if (d.success) {
+                            showMessage(d.message);
+                            Object.assign(record, updated);
+                            record.isEditing = false;
+                            recordsContainer.innerHTML = currentRecords.map(createRow).join('');
+                            attachListeners();
+                        } else {
+                            showMessage('خطأ في التعديل', false);
+                        }
+                    });
+                }
+                else if (action == 'delete') {
+                    if (confirm('هل تريد حذف هذا السجل؟')) {
+                        fetch(`/delete_record/${id}/`, {
+                            method: 'POST',
+                            headers: { 'X-CSRFToken': getCookie('csrftoken') }
+                        }).then(r => r.json()).then(d => {
+                            if (d.success) {
+                                showMessage(d.message);
+                                currentRecords = currentRecords.filter(r => r.memorization_id != id);
+                                recordsContainer.innerHTML = currentRecords.length === 0 ? '<p style="text-align:center;">لا توجد سجلات</p>' : currentRecords.map(createRow).join('');
+                                attachListeners();
+                            }
+                        });
+                    }
+                }
+            };
+        });
+    }
+
+    studentSelect.onchange = () => {
+        const val = studentSelect.value;
+        if (val) loadRecords(val);
+        else memorizationContainer.style.display = 'none';
+    };
+</script>
+{% endblock %}

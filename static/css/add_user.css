@@ -1,0 +1,89 @@
+*{
+        box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "Amiri", serif;
+}
+body {
+    background-color: #94a9a375;
+}
+.add-user{
+    margin: 10px auto;
+    width: 90%;
+}
+
+.add-user form{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 0px 2px #80bbaa0a, 0 0 2px 1px #94a9a39c inset;
+}
+.add-user form .input-set{
+    display: flex;
+}
+.add-user form .input-set  .form-input{
+    margin: 3px 5px;
+    height: 40px;
+    font-size: 20px;
+    display: block;
+    width: 95%;
+}
+button {
+    display: block;
+    width: calc(100% - 300px);
+    height: 50px;
+    margin: 50px auto;
+    margin-bottom: 20px;
+    background-color: #196c78d4;
+    font-size: 20px;
+    word-spacing: 3px;
+    border: 1px solid #196b789a;
+    color: white;
+    transition: background-color 0.3s;
+    position: relative;
+    bottom: 10px;
+}
+
+button:hover {
+    background-color: #05333a9a;
+}
+.error-message,
+.success-message {
+    display: block;
+    color: red;
+    text-align: center;
+    width: 100%;
+    margin: 5px auto;
+    font-size: 16px;
+}
+
+.success-message {
+    color: rgb(43, 141, 64);
+}
+@media (max-width: 768px) {
+    .add-user form .input-set {
+        display: block;
+        /* Stacks the inputs vertically */
+    }
+
+    .add-user form .input-set .form-input {
+        width: 95%;
+        /* Make inputs full width */
+        margin: 10px auto;
+        /* Add vertical space */
+    }
+
+    button {
+        width: 95%;
+        /* Make the button full width */
+        margin-left: auto;
+        margin-right: auto;
+        bottom: 0;
+        /* Adjust button position */
+    }
+
+    .add-user {
+        width: 95%;
+        /* Adjust container width for smaller screens */
+        padding: 5px;
+    }
+}

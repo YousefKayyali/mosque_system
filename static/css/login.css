@@ -1,8 +1,6 @@
 body{
-    background-image: url('../images/system_background.jpg');
-    background-size: cover;
-    background-color: #e8e0d5;
     font-family: "Amiri",serif;
+    background-color: #94a9a375;
 }
 .login{
     --loginDivWidth:400px;

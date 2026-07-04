@@ -25,10 +25,14 @@ SECRET_KEY = 'django-insecure-3s^wr^m_%^(+o3#r6121l^wwl!i5p*i43mngc$cj*s(@xdp*%v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+ #   '.ngrok-free.app', '.loca.lt','127.0.0.1' 
+                 ]
 
-
-# Application definition
+CSRF_TRUSTED_ORIGINS = [
+#  "https://*.ngrok-free.app",  
+]
+# # Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -39,7 +43,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'user_auth.apps.UserAuthConfig',
     'core.apps.CoreConfig',
-]
+    'rest_framework',
+    'api',]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

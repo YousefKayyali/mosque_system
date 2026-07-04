@@ -1,0 +1,42 @@
+{% extends "home.html" %}
+{% load static %}
+{% block css %}
+
+<link rel="stylesheet" href="{% static 'css/add_user.css' %}">
+{% endblock%}
+{% block body %}
+<main>
+    <div class="add-user">
+        <form method="post">
+            {% csrf_token %}
+
+            <div class="input-set">
+                {{form.first_name}}
+                {{form.middle_name}}
+                {{form.last_name}}
+            </div>
+            <div class="input-set">
+                {{form.username}}
+                {{form.email}}
+                {{form.password}}
+
+            </div>
+            <div class="input-set">
+                {{form.phone}}
+                <select name="privilege" id="" class="form-input">
+                    <option value="2"> super admin</option>
+                    <option value="3">admin</option>
+                </select>
+            </div>
+            {%if messages%}
+            {%for message in messages%}
+            <span class="{{message.tags}}-message">{{message}}</span>
+            {% endfor %}
+            {% endif %}
+            <button type="submit">أضافة مشرف</button>
+
+        </form>
+    </div>
+
+</main>
+{% endblock%}

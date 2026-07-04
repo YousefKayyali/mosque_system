@@ -1,23 +1,1772 @@
-2025-09-12 19:59:43,001 - check data  - INFO - 1 1 1 49 1 286 good 3  2025-09-12 16:59:43.001199+00:00 new
-2025-09-12 20:03:38,110 - check data  - INFO - 1
-2025-09-12 20:03:39,683 - check data  - INFO - 1
-2025-09-12 20:03:39,684 - check data  - INFO - 1 1 1 49 1 286 good 3  2025-09-12 17:03:39.684143+00:00 new
-2025-09-12 20:12:44,813 - check data  - INFO - 1
-2025-09-12 20:13:00,615 - check data  - INFO - 1
-2025-09-12 20:13:00,615 - check data  - INFO - 1 1 128 150 1 165 good 2  2025-09-12 17:13:00.615729+00:00 new
-2025-09-12 20:13:00,617 - check data  - INFO - <ul class="errorlist"><li>record_date<ul class="errorlist" id="id_record_date_error"><li>This field is required.</li></ul></li><li>user<ul class="errorlist" id="id_user_error"><li>This field is required.</li></ul></li></ul>
-2025-09-12 20:13:00,695 - check data  - INFO - 1
-2025-09-12 20:14:30,885 - check data  - INFO - 1
-2025-09-12 20:14:33,219 - check data  - INFO - 1
-2025-09-12 20:14:33,219 - check data  - INFO - 1 1 128 150 1 165 good 2  2025-09-12 17:14:33.219867+00:00 new
-2025-09-12 20:14:33,221 - check data  - INFO - <ul class="errorlist"><li>user<ul class="errorlist" id="id_user_error"><li>This field is required.</li></ul></li></ul>
-2025-09-12 20:14:33,274 - check data  - INFO - 1
-2025-09-12 20:16:16,285 - check data  - INFO - 1
-2025-09-12 20:16:17,821 - check data  - INFO - 1
-2025-09-12 20:16:17,821 - check data  - INFO - 1 1 128 150 1 165 good 2  2025-09-12 17:16:17.821494+00:00 new
-2025-09-12 20:17:48,845 - check data  - INFO - 1
-2025-09-12 20:18:24,043 - check data  - INFO - 1
-2025-09-12 20:18:24,096 - check data  - INFO - 1
-2025-09-12 21:11:38,512 - check data  - INFO - 1
-2025-09-12 21:14:04,617 - check data  - INFO - 1
-2025-09-12 21:14:04,679 - check data  - INFO - 1
+2025-10-08 21:49:00,756 - check data  - INFO - 2025-10-08
+2025-10-08 22:39:28,173 - check data  - INFO - 2025-10-08
+2025-10-08 22:39:29,634 - check data  - INFO - 1
+2025-10-08 22:39:29,674 - check data  - INFO - None | from_page=321 | to_page=322 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:39:29,765 - check data  - INFO - 2025-10-08
+2025-10-08 22:41:02,862 - check data  - INFO - 2025-10-08
+2025-10-08 22:41:02,862 - check data  - INFO - 2
+2025-10-08 22:41:02,868 - check data  - INFO - None | from_page=588 | to_page=589 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-08 22:41:02,954 - check data  - INFO - 2025-10-08
+2025-10-08 22:50:07,026 - check data  - INFO - 2025-10-08
+2025-10-08 22:50:07,027 - check data  - INFO - 2
+2025-10-08 22:50:07,036 - check data  - INFO - None | from_page=10 | to_page=11 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-08 22:50:07,129 - check data  - INFO - 2025-10-08
+2025-10-08 22:50:53,448 - check data  - INFO - 2025-10-08
+2025-10-08 22:52:15,801 - check data  - INFO - 2025-10-08
+2025-10-08 22:52:15,802 - check data  - INFO - 2
+2025-10-08 22:52:15,806 - check data  - INFO - None | from_page=26 | to_page=30 | evaluation=excellent | misses=0 | note= | date=None | type=old
+2025-10-08 22:52:15,891 - check data  - INFO - 2025-10-08
+2025-10-08 22:52:52,658 - check data  - INFO - 2025-10-08
+2025-10-08 22:52:52,659 - check data  - INFO - 2
+2025-10-08 22:52:52,664 - check data  - INFO - None | from_page=67 | to_page=68 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-08 22:52:52,760 - check data  - INFO - 2025-10-08
+2025-10-08 22:53:32,099 - check data  - INFO - 2025-10-08
+2025-10-08 22:53:32,105 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:53:32,189 - check data  - INFO - 2025-10-08
+2025-10-08 22:54:04,322 - check data  - INFO - 2025-10-08
+2025-10-08 22:54:04,326 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:54:04,411 - check data  - INFO - 2025-10-08
+2025-10-08 22:54:51,455 - check data  - INFO - 2025-10-08
+2025-10-08 22:54:51,456 - check data  - INFO - 2
+2025-10-08 22:54:51,460 - check data  - INFO - None | from_page=68 | to_page=69 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-08 22:54:51,552 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:13,133 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:13,134 - check data  - INFO - 1
+2025-10-08 22:56:13,140 - check data  - INFO - None | from_page=542 | to_page=542 | evaluation=very good | misses=1 | note= | date=None | type=old
+2025-10-08 22:56:13,227 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:26,376 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:32,729 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:32,730 - check data  - INFO - 1
+2025-10-08 22:56:32,736 - check data  - INFO - None | from_page=542 | to_page=545 | evaluation=very good | misses=1 | note= | date=None | type=old
+2025-10-08 22:56:32,820 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:54,228 - check data  - INFO - 2025-10-08
+2025-10-08 22:56:54,318 - check data  - INFO - 2025-10-08
+2025-10-08 22:57:25,661 - check data  - INFO - 2025-10-08
+2025-10-08 22:57:25,661 - check data  - INFO - 1
+2025-10-08 22:57:25,664 - check data  - INFO - None | from_page=566 | to_page=567 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:57:25,751 - check data  - INFO - 2025-10-08
+2025-10-08 22:58:06,797 - check data  - INFO - 2025-10-08
+2025-10-08 22:58:06,802 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:58:06,889 - check data  - INFO - 2025-10-08
+2025-10-08 22:58:30,018 - check data  - INFO - 2025-10-08
+2025-10-08 22:58:30,105 - check data  - INFO - 2025-10-08
+2025-10-08 22:59:20,491 - check data  - INFO - 2025-10-08
+2025-10-08 22:59:20,496 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:59:20,582 - check data  - INFO - 2025-10-08
+2025-10-08 22:59:42,502 - check data  - INFO - 2025-10-08
+2025-10-08 22:59:42,508 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-08 22:59:42,598 - check data  - INFO - 2025-10-08
+2025-10-08 23:00:28,989 - check data  - INFO - 2025-10-08
+2025-10-08 23:00:28,994 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-08 23:00:29,084 - check data  - INFO - 2025-10-08
+2025-10-08 23:00:55,728 - check data  - INFO - 2025-10-08
+2025-10-08 23:00:55,728 - check data  - INFO - 2
+2025-10-08 23:00:55,734 - check data  - INFO - None | from_page=10 | to_page=11 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-08 23:00:55,822 - check data  - INFO - 2025-10-08
+2025-10-11 16:01:58,488 - check data  - INFO - 2025-10-11
+2025-10-11 16:02:10,397 - check data  - INFO - 2025-10-11
+2025-10-11 16:02:10,640 - check data  - INFO - 2025-10-11
+2025-10-11 16:20:41,177 - check data  - INFO - 2025-10-11
+2025-10-11 16:21:05,064 - check data  - INFO - 2025-10-11
+2025-10-11 16:21:05,328 - check data  - INFO - 2025-10-11
+2025-10-11 16:21:30,985 - check data  - INFO - 2025-10-11
+2025-10-11 16:21:31,242 - check data  - INFO - 2025-10-11
+2025-10-11 17:16:34,495 - check data  - INFO - 2025-10-11
+2025-10-11 17:18:47,415 - check data  - INFO - 2025-10-11
+2025-10-11 17:18:47,772 - check data  - INFO - None | from_page=540 | to_page=541 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-11 17:18:48,060 - check data  - INFO - 2025-10-11
+2025-10-11 17:22:05,553 - check data  - INFO - 2025-10-11
+2025-10-11 17:22:05,559 - check data  - INFO - None | from_page=319 | to_page=321 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-11 17:22:05,860 - check data  - INFO - 2025-10-11
+2025-10-11 17:31:26,512 - check data  - INFO - 2025-10-11
+2025-10-11 17:31:26,513 - check data  - INFO - 0
+2025-10-11 17:31:26,521 - check data  - INFO - None | from_page=563 | to_page=563 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-10-11 17:31:26,799 - check data  - INFO - 2025-10-11
+2025-10-11 17:37:30,501 - check data  - INFO - 2025-10-11
+2025-10-11 17:37:30,501 - check data  - INFO - 0
+2025-10-11 17:37:30,507 - check data  - INFO - None | from_page=586 | to_page=587 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-11 17:37:30,881 - check data  - INFO - 2025-10-11
+2025-10-11 17:40:15,057 - check data  - INFO - 2025-10-11
+2025-10-11 17:40:15,058 - check data  - INFO - 1
+2025-10-11 17:40:15,065 - check data  - INFO - None | from_page=556 | to_page=567 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-11 17:40:15,323 - check data  - INFO - 2025-10-11
+2025-10-11 17:52:35,228 - check data  - INFO - 2025-10-11
+2025-10-11 17:52:35,494 - check data  - INFO - 2025-10-11
+2025-10-11 17:54:43,298 - check data  - INFO - 2025-10-11
+2025-10-11 17:54:43,299 - check data  - INFO - 1
+2025-10-11 17:54:43,305 - check data  - INFO - None | from_page=8 | to_page=9 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-11 17:54:43,573 - check data  - INFO - 2025-10-11
+2025-10-11 17:56:41,333 - check data  - INFO - 2025-10-11
+2025-10-11 17:56:41,334 - check data  - INFO - 2
+2025-10-11 17:56:41,341 - check data  - INFO - None | from_page=563 | to_page=564 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-11 17:56:41,596 - check data  - INFO - 2025-10-11
+2025-10-11 17:58:25,651 - check data  - INFO - 2025-10-11
+2025-10-11 17:58:25,656 - check data  - INFO - None | from_page=293 | to_page=322 | evaluation=very good | misses=3 | note= | date=None | type=new
+2025-10-11 17:58:25,914 - check data  - INFO - 2025-10-11
+2025-10-11 17:59:30,322 - check data  - INFO - 2025-10-11
+2025-10-11 17:59:30,423 - check data  - INFO - 1
+2025-10-11 17:59:30,429 - check data  - INFO - None | from_page=567 | to_page=568 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-11 17:59:30,721 - check data  - INFO - 2025-10-11
+2025-10-11 18:05:05,595 - check data  - INFO - 2025-10-11
+2025-10-11 18:05:05,850 - check data  - INFO - 2025-10-11
+2025-10-11 18:10:39,063 - check data  - INFO - 2025-10-11
+2025-10-11 18:10:39,064 - check data  - INFO - 0
+2025-10-11 18:10:39,071 - check data  - INFO - None | from_page=581 | to_page=582 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-11 18:10:39,331 - check data  - INFO - 2025-10-11
+2025-10-11 18:11:18,000 - check data  - INFO - 2025-10-11
+2025-10-11 18:11:18,249 - check data  - INFO - 2025-10-11
+2025-10-11 18:12:27,391 - check data  - INFO - 2025-10-11
+2025-10-11 18:12:27,392 - check data  - INFO - ['3', '18', '28', '26', '19']
+2025-10-11 18:12:27,688 - check data  - INFO - 2025-10-11
+2025-10-11 18:20:06,551 - check data  - INFO - 2025-10-11
+2025-10-11 18:20:06,552 - check data  - INFO - 2
+2025-10-11 18:20:06,558 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-11 18:20:06,820 - check data  - INFO - 2025-10-11
+2025-10-11 21:00:51,985 - check data  - INFO - 2025-10-11
+2025-10-11 21:01:39,290 - check data  - INFO - 2025-10-11
+2025-10-11 21:02:33,249 - check data  - INFO - 2025-10-11
+2025-10-16 23:15:26,799 - check data  - INFO - 2025-10-16
+2025-10-16 23:21:21,237 - check data  - INFO - 2025-10-16
+2025-10-16 23:21:21,238 - check data  - INFO - ['3', '11', '20', '26', '19']
+2025-10-16 23:21:21,381 - check data  - INFO - 2025-10-16
+2025-10-16 23:21:40,037 - check data  - INFO - 2025-10-16
+2025-10-16 23:21:40,038 - check data  - INFO - 1
+2025-10-16 23:21:40,156 - check data  - INFO - None | from_page=9 | to_page=10 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-16 23:21:40,256 - check data  - INFO - 2025-10-16
+2025-10-16 23:22:20,018 - check data  - INFO - 2025-10-16
+2025-10-16 23:22:20,018 - check data  - INFO - 2
+2025-10-16 23:22:20,025 - check data  - INFO - None | from_page=558 | to_page=559 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-16 23:22:20,121 - check data  - INFO - 2025-10-16
+2025-10-16 23:23:03,582 - check data  - INFO - 2025-10-16
+2025-10-16 23:23:03,583 - check data  - INFO - 2
+2025-10-16 23:23:03,590 - check data  - INFO - None | from_page=541 | to_page=542 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-16 23:23:03,685 - check data  - INFO - 2025-10-16
+2025-10-16 23:24:14,017 - check data  - INFO - 2025-10-16
+2025-10-16 23:24:14,017 - check data  - INFO - 0
+2025-10-16 23:24:14,024 - check data  - INFO - None | from_page=11 | to_page=12 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-10-16 23:24:14,124 - check data  - INFO - 2025-10-16
+2025-10-16 23:24:44,485 - check data  - INFO - 2025-10-16
+2025-10-16 23:24:44,586 - check data  - INFO - 2025-10-16
+2025-10-16 23:25:09,358 - check data  - INFO - 2025-10-16
+2025-10-16 23:25:09,460 - check data  - INFO - 2025-10-16
+2025-10-16 23:25:42,133 - check data  - INFO - 2025-10-16
+2025-10-16 23:25:42,134 - check data  - INFO - 1
+2025-10-16 23:25:42,139 - check data  - INFO - None | from_page=300 | to_page=301 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-16 23:25:42,235 - check data  - INFO - 2025-10-16
+2025-10-16 23:25:56,223 - check data  - INFO - 2025-10-16
+2025-10-16 23:26:38,049 - check data  - INFO - 2025-10-16
+2025-10-16 23:26:38,050 - check data  - INFO - 2
+2025-10-16 23:26:38,055 - check data  - INFO - None | from_page=68 | to_page=69 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-16 23:26:38,156 - check data  - INFO - 2025-10-16
+2025-10-16 23:27:09,929 - check data  - INFO - 2025-10-16
+2025-10-16 23:27:09,930 - check data  - INFO - 1
+2025-10-16 23:27:10,294 - check data  - INFO - None | from_page=586 | to_page=587 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-16 23:27:10,387 - check data  - INFO - 2025-10-16
+2025-10-16 23:28:49,583 - check data  - INFO - 2025-10-16
+2025-10-16 23:28:49,583 - check data  - INFO - 0
+2025-10-16 23:28:49,589 - check data  - INFO - None | from_page=564 | to_page=564 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-16 23:28:49,691 - check data  - INFO - 2025-10-16
+2025-10-16 23:29:43,991 - check data  - INFO - 2025-10-16
+2025-10-16 23:29:43,991 - check data  - INFO - 0
+2025-10-16 23:29:43,997 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-10-16 23:29:44,097 - check data  - INFO - 2025-10-16
+2025-10-16 23:29:54,360 - check data  - INFO - 2025-10-16
+2025-10-16 23:29:54,466 - check data  - INFO - 2025-10-16
+2025-10-16 23:30:44,945 - check data  - INFO - 2025-10-16
+2025-10-16 23:30:44,952 - check data  - INFO - None | from_page=583 | to_page=583 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-16 23:30:45,054 - check data  - INFO - 2025-10-16
+2025-10-16 23:31:12,594 - check data  - INFO - 2025-10-16
+2025-10-16 23:31:12,595 - check data  - INFO - 0
+2025-10-16 23:31:12,603 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-16 23:31:12,813 - check data  - INFO - 2025-10-16
+2025-10-16 23:31:36,874 - check data  - INFO - 2025-10-16
+2025-10-16 23:31:36,881 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-16 23:31:36,999 - check data  - INFO - 2025-10-16
+2025-10-16 23:32:05,238 - check data  - INFO - 2025-10-16
+2025-10-16 23:32:05,238 - check data  - INFO - 1
+2025-10-16 23:32:05,245 - check data  - INFO - None | from_page=582 | to_page=582 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-16 23:32:05,452 - check data  - INFO - 2025-10-16
+2025-10-16 23:32:18,585 - check data  - INFO - 2025-10-16
+2025-10-16 23:32:18,683 - check data  - INFO - 2025-10-16
+2025-10-16 23:38:28,722 - check data  - INFO - 2025-10-16
+2025-10-16 23:44:16,258 - check data  - INFO - 2025-10-16
+2025-10-16 23:44:17,902 - check data  - INFO - 2025-10-16
+2025-10-16 23:44:25,515 - check data  - INFO - 2025-10-16
+2025-10-16 23:44:34,178 - check data  - INFO - 2025-10-16
+2025-10-16 23:44:35,728 - check data  - INFO - 2025-10-16
+2025-10-16 23:45:53,190 - check data  - INFO - 2025-10-16
+2025-10-16 23:45:54,076 - check data  - INFO - 2025-10-16
+2025-10-16 23:45:54,628 - check data  - INFO - 2025-10-16
+2025-10-16 23:46:44,947 - check data  - INFO - 2025-10-16
+2025-10-18 17:04:11,652 - check data  - INFO - 2025-10-18
+2025-10-18 17:22:32,880 - check data  - INFO - 2025-10-18
+2025-10-18 17:22:47,919 - check data  - INFO - 2025-10-18
+2025-10-18 17:24:57,270 - check data  - INFO - 2025-10-18
+2025-10-18 22:32:05,727 - check data  - INFO - 2025-10-18
+2025-10-18 22:34:31,806 - check data  - INFO - 2025-10-18
+2025-10-18 22:34:31,807 - check data  - INFO - 1
+2025-10-18 22:35:45,133 - check data  - INFO - 2025-10-18
+2025-10-18 22:35:45,134 - check data  - INFO - 1
+2025-10-18 22:35:45,154 - check data  - INFO - None | from_page=518 | pages=1.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-18 22:35:45,270 - check data  - INFO - 2025-10-18
+2025-10-18 22:36:16,992 - check data  - INFO - 2025-10-18
+2025-10-18 22:36:16,992 - check data  - INFO - 1
+2025-10-18 22:36:16,999 - check data  - INFO - None | from_page=321 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-18 22:36:17,111 - check data  - INFO - 2025-10-18
+2025-10-18 22:36:54,694 - check data  - INFO - 2025-10-18
+2025-10-18 22:36:54,695 - check data  - INFO - 2
+2025-10-18 22:36:54,702 - check data  - INFO - None | from_page=541 | pages=8.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-18 22:36:54,807 - check data  - INFO - 2025-10-18
+2025-10-18 22:37:36,947 - check data  - INFO - 2025-10-18
+2025-10-18 22:37:36,947 - check data  - INFO - 2
+2025-10-18 22:37:36,955 - check data  - INFO - None | from_page=568 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-18 22:37:37,056 - check data  - INFO - 2025-10-18
+2025-10-18 22:45:56,810 - check data  - INFO - 2025-10-18
+2025-10-18 22:45:56,811 - check data  - INFO - 2
+2025-10-18 22:45:56,816 - check data  - INFO - None | from_page=301 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-18 22:45:56,910 - check data  - INFO - 2025-10-18
+2025-10-18 22:46:20,085 - check data  - INFO - 2025-10-18
+2025-10-18 22:46:20,086 - check data  - INFO - 2
+2025-10-18 22:46:20,092 - check data  - INFO - None | from_page=10 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-18 22:46:20,191 - check data  - INFO - 2025-10-18
+2025-10-18 22:47:23,670 - check data  - INFO - 2025-10-18
+2025-10-18 22:47:23,676 - check data  - INFO - None | from_page=528 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-18 22:47:23,778 - check data  - INFO - 2025-10-18
+2025-10-18 22:49:45,375 - check data  - INFO - 2025-10-18
+2025-10-18 22:49:45,383 - check data  - INFO - None | from_page=582 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-18 22:49:45,478 - check data  - INFO - 2025-10-18
+2025-10-18 22:50:28,514 - check data  - INFO - 2025-10-18
+2025-10-18 22:50:28,515 - check data  - INFO - 2
+2025-10-18 22:50:28,524 - check data  - INFO - None | from_page=12 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-18 22:50:28,619 - check data  - INFO - 2025-10-18
+2025-10-18 22:51:10,453 - check data  - INFO - 2025-10-18
+2025-10-18 22:51:10,454 - check data  - INFO - 0
+2025-10-18 22:51:10,459 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-18 22:51:10,558 - check data  - INFO - 2025-10-18
+2025-10-18 22:51:39,261 - check data  - INFO - 2025-10-18
+2025-10-18 22:51:39,269 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-18 22:51:39,363 - check data  - INFO - 2025-10-18
+2025-10-18 22:52:12,273 - check data  - INFO - 2025-10-18
+2025-10-18 22:52:12,274 - check data  - INFO - 0
+2025-10-18 22:52:12,282 - check data  - INFO - None | from_page=585 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-18 22:52:12,377 - check data  - INFO - 2025-10-18
+2025-10-18 22:52:57,563 - check data  - INFO - 2025-10-18
+2025-10-18 22:52:57,569 - check data  - INFO - None | from_page=583 | pages=1.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-18 22:52:57,668 - check data  - INFO - 2025-10-18
+2025-10-18 22:54:52,927 - check data  - INFO - 2025-10-18
+2025-10-18 22:54:52,928 - check data  - INFO - 2
+2025-10-18 22:54:52,934 - check data  - INFO - None | from_page=559 | pages=2.5 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-10-18 22:54:53,035 - check data  - INFO - 2025-10-18
+2025-10-18 23:03:41,941 - check data  - INFO - 2025-10-18
+2025-10-18 23:03:41,941 - check data  - INFO - ['22', '18', '11', '5', '6', '28', '26', '19']
+2025-10-18 23:03:42,087 - check data  - INFO - 2025-10-18
+2025-10-18 23:06:01,744 - check data  - INFO - 2025-10-18
+2025-10-18 23:08:30,370 - check data  - INFO - 2025-10-18
+2025-10-18 23:10:42,455 - check data  - INFO - 2025-10-18
+2025-10-18 23:45:41,869 - check data  - INFO - 2025-10-18
+2025-10-18 23:50:01,243 - check data  - INFO - 2025-10-18
+2025-10-25 15:00:49,377 - check data  - INFO - 2025-10-25
+2025-10-25 15:01:28,169 - check data  - INFO - 2025-10-25
+2025-10-25 15:01:28,169 - check data  - INFO - 1
+2025-10-25 15:01:28,552 - check data  - INFO - None | from_page=11 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-25 15:01:28,637 - check data  - INFO - 2025-10-25
+2025-10-25 15:02:13,492 - check data  - INFO - 2025-10-25
+2025-10-25 15:02:13,493 - check data  - INFO - 2
+2025-10-25 15:02:13,500 - check data  - INFO - None | from_page=549 | pages=2.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-25 15:02:13,592 - check data  - INFO - 2025-10-25
+2025-10-25 15:03:02,062 - check data  - INFO - 2025-10-25
+2025-10-25 15:03:02,071 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-25 15:03:02,161 - check data  - INFO - 2025-10-25
+2025-10-25 15:03:19,841 - check data  - INFO - 2025-10-25
+2025-10-25 15:03:30,438 - check data  - INFO - 2025-10-25
+2025-10-25 15:03:30,443 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-25 15:03:30,538 - check data  - INFO - 2025-10-25
+2025-10-25 15:05:14,153 - check data  - INFO - 2025-10-25
+2025-10-25 15:05:14,154 - check data  - INFO - 2
+2025-10-25 15:05:14,161 - check data  - INFO - None | from_page=585 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-25 15:05:14,254 - check data  - INFO - 2025-10-25
+2025-10-25 15:06:48,540 - check data  - INFO - 2025-10-25
+2025-10-25 15:06:48,541 - check data  - INFO - ['27', '11', '5', '6', '28', '26', '19']
+2025-10-25 15:06:48,676 - check data  - INFO - 2025-10-25
+2025-10-25 15:07:48,152 - check data  - INFO - 2025-10-25
+2025-10-25 15:07:48,152 - check data  - INFO - 0
+2025-10-25 15:07:48,158 - check data  - INFO - None | from_page=518 | pages=1.0 | evaluation=good | misses=1 | note= | date=None | type=new
+2025-10-25 15:07:48,255 - check data  - INFO - 2025-10-25
+2025-10-25 15:08:23,956 - check data  - INFO - 2025-10-25
+2025-10-25 15:08:23,962 - check data  - INFO - None | from_page=6 | pages=31.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-25 15:08:24,053 - check data  - INFO - 2025-10-25
+2025-10-25 15:10:49,994 - check data  - INFO - 2025-10-25
+2025-10-25 15:10:49,995 - check data  - INFO - 2
+2025-10-25 15:10:50,001 - check data  - INFO - None | from_page=585 | pages=8.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-10-25 15:10:50,093 - check data  - INFO - 2025-10-25
+2025-10-25 15:11:39,039 - check data  - INFO - 2025-10-25
+2025-10-25 15:11:39,040 - check data  - INFO - 2
+2025-10-25 15:11:39,046 - check data  - INFO - None | from_page=69 | pages=2.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-10-25 15:11:39,137 - check data  - INFO - 2025-10-25
+2025-10-25 15:14:15,964 - check data  - INFO - 2025-10-25
+2025-10-25 15:43:24,390 - check data  - INFO - 2025-10-25
+2025-10-25 16:09:48,988 - check data  - INFO - 2025-10-25
+2025-10-25 16:09:59,034 - check data  - INFO - 2025-10-25
+2025-10-25 16:09:59,345 - check data  - INFO - 2025-10-25
+2025-10-25 16:10:11,855 - check data  - INFO - 2025-10-25
+2025-10-25 16:10:12,168 - check data  - INFO - 2025-10-25
+2025-10-31 17:40:33,793 - check data  - INFO - 2025-10-31
+2025-10-31 17:41:15,335 - check data  - INFO - 2025-10-31
+2025-10-31 17:41:15,336 - check data  - INFO - 1
+2025-10-31 17:41:15,426 - check data  - INFO - None | from_page=12 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-31 17:41:15,554 - check data  - INFO - 2025-10-31
+2025-10-31 17:41:49,404 - check data  - INFO - 2025-10-31
+2025-10-31 17:41:49,404 - check data  - INFO - 2
+2025-10-31 17:41:49,413 - check data  - INFO - None | from_page=14 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 17:41:49,552 - check data  - INFO - 2025-10-31
+2025-10-31 17:47:30,197 - check data  - INFO - 2025-10-31
+2025-10-31 17:47:30,198 - check data  - INFO - 0
+2025-10-31 17:47:30,221 - check data  - INFO - None | from_page=516 | pages=1.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-10-31 17:47:30,361 - check data  - INFO - 2025-10-31
+2025-10-31 17:48:36,825 - check data  - INFO - 2025-10-31
+2025-10-31 17:48:36,825 - check data  - INFO - 2
+2025-10-31 17:48:36,832 - check data  - INFO - None | from_page=520 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 17:48:36,962 - check data  - INFO - 2025-10-31
+2025-10-31 18:19:49,072 - check data  - INFO - 2025-10-31
+2025-10-31 18:19:49,223 - check data  - INFO - 2025-10-31
+2025-10-31 18:29:33,065 - check data  - INFO - 2025-10-31
+2025-10-31 18:29:33,065 - check data  - INFO - 2
+2025-10-31 18:29:33,087 - check data  - INFO - None | from_page=567 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:29:33,212 - check data  - INFO - 2025-10-31
+2025-10-31 18:34:35,953 - check data  - INFO - 2025-10-31
+2025-10-31 18:34:35,975 - check data  - INFO - None | from_page=312 | pages=11.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:34:36,101 - check data  - INFO - 2025-10-31
+2025-10-31 18:38:50,579 - check data  - INFO - 2025-10-31
+2025-10-31 18:38:50,580 - check data  - INFO - 2
+2025-10-31 18:38:50,595 - check data  - INFO - None | from_page=303 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:38:50,717 - check data  - INFO - 2025-10-31
+2025-10-31 18:39:08,558 - check data  - INFO - 2025-10-31
+2025-10-31 18:39:08,559 - check data  - INFO - 0
+2025-10-31 18:39:08,572 - check data  - INFO - None | from_page=304 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-10-31 18:39:08,719 - check data  - INFO - 2025-10-31
+2025-10-31 18:43:06,536 - check data  - INFO - 2025-10-31
+2025-10-31 18:43:06,537 - check data  - INFO - 1
+2025-10-31 18:43:06,552 - check data  - INFO - None | from_page=564 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-31 18:43:06,679 - check data  - INFO - 2025-10-31
+2025-10-31 18:44:21,051 - check data  - INFO - 2025-10-31
+2025-10-31 18:44:21,052 - check data  - INFO - ['8', '11', '20', '28', '26', '19']
+2025-10-31 18:44:21,232 - check data  - INFO - 2025-10-31
+2025-10-31 18:46:18,861 - check data  - INFO - 2025-10-31
+2025-10-31 18:46:18,862 - check data  - INFO - 0
+2025-10-31 18:46:18,871 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-10-31 18:46:18,992 - check data  - INFO - 2025-10-31
+2025-10-31 18:46:49,133 - check data  - INFO - 2025-10-31
+2025-10-31 18:46:49,134 - check data  - INFO - 1
+2025-10-31 18:46:49,144 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-31 18:46:49,275 - check data  - INFO - 2025-10-31
+2025-10-31 18:47:07,150 - check data  - INFO - 2025-10-31
+2025-10-31 18:47:07,150 - check data  - INFO - 0
+2025-10-31 18:47:07,160 - check data  - INFO - None | from_page=584 | pages=0.5 | evaluation=did not memorize | misses=0 | note= | date=None | type=new
+2025-10-31 18:47:07,282 - check data  - INFO - 2025-10-31
+2025-10-31 18:48:40,827 - check data  - INFO - 2025-10-31
+2025-10-31 18:48:40,828 - check data  - INFO - 0
+2025-10-31 18:48:40,836 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=did not memorize | misses=0 | note= | date=None | type=new
+2025-10-31 18:48:40,978 - check data  - INFO - 2025-10-31
+2025-10-31 18:48:42,443 - check data  - INFO - 2025-10-31
+2025-10-31 18:48:43,556 - check data  - INFO - 2025-10-31
+2025-10-31 18:48:43,556 - check data  - INFO - 0
+2025-10-31 18:48:43,564 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=did not memorize | misses=0 | note= | date=None | type=new
+2025-10-31 18:48:43,786 - check data  - INFO - 2025-10-31
+2025-10-31 18:50:48,561 - check data  - INFO - 2025-10-31
+2025-10-31 18:50:48,562 - check data  - INFO - 2
+2025-10-31 18:50:48,570 - check data  - INFO - None | from_page=568 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:50:48,693 - check data  - INFO - 2025-10-31
+2025-10-31 18:51:33,664 - check data  - INFO - 2025-10-31
+2025-10-31 18:51:33,665 - check data  - INFO - 2
+2025-10-31 18:51:33,673 - check data  - INFO - None | from_page=15 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:51:33,798 - check data  - INFO - 2025-10-31
+2025-10-31 18:51:52,596 - check data  - INFO - 2025-10-31
+2025-10-31 18:51:52,737 - check data  - INFO - 2025-10-31
+2025-10-31 18:52:49,577 - check data  - INFO - 2025-10-31
+2025-10-31 18:52:49,578 - check data  - INFO - 2
+2025-10-31 18:52:49,588 - check data  - INFO - None | from_page=75 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:52:49,710 - check data  - INFO - 2025-10-31
+2025-10-31 18:57:53,845 - check data  - INFO - 2025-10-31
+2025-10-31 18:57:53,846 - check data  - INFO - 1
+2025-10-31 18:57:53,861 - check data  - INFO - None | from_page=593 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-31 18:57:53,991 - check data  - INFO - 2025-10-31
+2025-10-31 18:59:29,650 - check data  - INFO - 2025-10-31
+2025-10-31 18:59:29,651 - check data  - INFO - 2
+2025-10-31 18:59:29,658 - check data  - INFO - None | from_page=71 | pages=4.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-10-31 18:59:29,779 - check data  - INFO - 2025-10-31
+2025-10-31 19:03:21,198 - check data  - INFO - 2025-10-31
+2025-10-31 19:03:21,199 - check data  - INFO - 1
+2025-10-31 19:03:21,210 - check data  - INFO - None | from_page=519 | pages=9.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-10-31 19:03:21,329 - check data  - INFO - 2025-10-31
+2025-11-05 21:13:01,961 - check data  - INFO - 2025-11-05
+2025-11-05 21:15:45,802 - check data  - INFO - 2025-11-05
+2025-11-05 21:15:45,803 - check data  - INFO - 2
+2025-11-05 21:15:46,185 - check data  - INFO - None | from_page=519 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:15:46,288 - check data  - INFO - 2025-11-05
+2025-11-05 21:20:15,233 - check data  - INFO - 2025-11-05
+2025-11-05 21:20:15,233 - check data  - INFO - 2
+2025-11-05 21:20:15,245 - check data  - INFO - None | from_page=13 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:20:15,340 - check data  - INFO - 2025-11-05
+2025-11-05 21:20:29,422 - check data  - INFO - 2025-11-05
+2025-11-05 21:20:29,422 - check data  - INFO - 1
+2025-11-05 21:20:29,428 - check data  - INFO - None | from_page=14 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-11-05 21:20:29,522 - check data  - INFO - 2025-11-05
+2025-11-05 21:21:30,880 - check data  - INFO - 2025-11-05
+2025-11-05 21:21:30,881 - check data  - INFO - 2
+2025-11-05 21:21:30,890 - check data  - INFO - None | from_page=13 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:21:31,096 - check data  - INFO - 2025-11-05
+2025-11-05 21:21:47,490 - check data  - INFO - 2025-11-05
+2025-11-05 21:21:47,491 - check data  - INFO - 0
+2025-11-05 21:21:47,498 - check data  - INFO - None | from_page=14 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-05 21:21:47,610 - check data  - INFO - 2025-11-05
+2025-11-05 21:24:41,746 - check data  - INFO - 2025-11-05
+2025-11-05 21:24:41,747 - check data  - INFO - 1
+2025-11-05 21:24:41,752 - check data  - INFO - None | from_page=584 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-11-05 21:24:41,845 - check data  - INFO - 2025-11-05
+2025-11-05 21:25:41,680 - check data  - INFO - 2025-11-05
+2025-11-05 21:25:41,680 - check data  - INFO - 2
+2025-11-05 21:25:41,687 - check data  - INFO - None | from_page=582 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:25:41,778 - check data  - INFO - 2025-11-05
+2025-11-05 21:26:33,900 - check data  - INFO - 2025-11-05
+2025-11-05 21:26:33,999 - check data  - INFO - 2025-11-05
+2025-11-05 21:28:17,007 - check data  - INFO - 2025-11-05
+2025-11-05 21:28:17,015 - check data  - INFO - None | from_page=305 | pages=7.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:28:17,112 - check data  - INFO - 2025-11-05
+2025-11-05 21:29:09,867 - check data  - INFO - 2025-11-05
+2025-11-05 21:29:09,867 - check data  - INFO - 2
+2025-11-05 21:29:09,874 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:29:09,969 - check data  - INFO - 2025-11-05
+2025-11-05 21:29:33,206 - check data  - INFO - 2025-11-05
+2025-11-05 21:29:33,206 - check data  - INFO - 2
+2025-11-05 21:29:33,213 - check data  - INFO - None | from_page=15 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 21:29:33,306 - check data  - INFO - 2025-11-05
+2025-11-05 22:00:37,163 - check data  - INFO - 2025-11-05
+2025-11-05 22:00:37,163 - check data  - INFO - 2
+2025-11-05 22:00:37,171 - check data  - INFO - None | from_page=586 | pages=19.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 22:00:37,264 - check data  - INFO - 2025-11-05
+2025-11-05 22:04:32,226 - check data  - INFO - 2025-11-05
+2025-11-05 22:04:57,862 - check data  - INFO - 2025-11-05
+2025-11-05 22:04:57,863 - check data  - INFO - 2
+2025-11-05 22:04:57,870 - check data  - INFO - None | from_page=594 | pages=11.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-05 22:04:57,965 - check data  - INFO - 2025-11-05
+2025-11-05 22:06:53,541 - check data  - INFO - 2025-11-05
+2025-11-05 22:06:53,641 - check data  - INFO - 2025-11-05
+2025-11-11 06:34:49,362 - check data  - INFO - 2025-11-11
+2025-11-11 06:39:12,434 - check data  - INFO - 2025-11-11
+2025-11-11 06:39:12,830 - check data  - INFO - None | from_page=50 | pages=10.0 | evaluation=excellent | misses=0 | note= | date=None | type=old
+2025-11-11 06:39:12,917 - check data  - INFO - 2025-11-11
+2025-11-11 06:40:21,703 - check data  - INFO - 2025-11-11
+2025-11-11 06:40:21,703 - check data  - INFO - 2
+2025-11-11 06:40:21,709 - check data  - INFO - None | from_page=569 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-11 06:40:21,812 - check data  - INFO - 2025-11-11
+2025-11-11 06:41:11,691 - check data  - INFO - 2025-11-11
+2025-11-11 06:41:11,697 - check data  - INFO - None | from_page=60 | pages=5.0 | evaluation=excellent | misses=0 | note= | date=None | type=old
+2025-11-11 06:41:11,784 - check data  - INFO - 2025-11-11
+2025-11-11 06:41:15,041 - check data  - INFO - 2025-11-11
+2025-11-29 11:53:18,263 - check data  - INFO - 2025-11-29
+2025-11-29 11:55:20,451 - check data  - INFO - 2025-11-29
+2025-11-29 11:55:20,451 - check data  - INFO - ['20', '19']
+2025-11-29 11:55:20,600 - check data  - INFO - 2025-11-29
+2025-11-29 11:56:30,451 - check data  - INFO - 2025-11-29
+2025-11-29 11:56:30,815 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-11-29 11:56:30,916 - check data  - INFO - 2025-11-29
+2025-11-29 11:57:22,459 - check data  - INFO - 2025-11-29
+2025-11-29 11:57:22,565 - check data  - INFO - 2025-11-29
+2025-11-29 11:57:56,443 - check data  - INFO - 2025-11-29
+2025-11-29 11:57:56,451 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-29 11:57:56,555 - check data  - INFO - 2025-11-29
+2025-11-29 11:59:24,857 - check data  - INFO - 2025-11-29
+2025-11-29 11:59:24,858 - check data  - INFO - 2
+2025-11-29 11:59:24,866 - check data  - INFO - None | from_page=563 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 11:59:24,970 - check data  - INFO - 2025-11-29
+2025-11-29 11:59:52,447 - check data  - INFO - 2025-11-29
+2025-11-29 11:59:52,448 - check data  - INFO - 1
+2025-11-29 11:59:52,453 - check data  - INFO - None | from_page=584 | pages=0.5 | evaluation=very good | misses=2 | note= | date=None | type=new
+2025-11-29 11:59:52,660 - check data  - INFO - 2025-11-29
+2025-11-29 12:00:24,100 - check data  - INFO - 2025-11-29
+2025-11-29 12:00:24,101 - check data  - INFO - 2
+2025-11-29 12:00:24,108 - check data  - INFO - None | from_page=584 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 12:00:24,210 - check data  - INFO - 2025-11-29
+2025-11-29 12:01:20,824 - check data  - INFO - 2025-11-29
+2025-11-29 12:01:20,825 - check data  - INFO - ['5', '29', '20', '6', '23', '28', '26', '19']
+2025-11-29 12:01:20,868 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(20, 2025-11-29) already exists.
+
+2025-11-29 12:01:20,970 - check data  - INFO - 2025-11-29
+2025-11-29 12:01:25,540 - check data  - INFO - 2025-11-29
+2025-11-29 12:02:10,683 - check data  - INFO - 2025-11-29
+2025-11-29 12:02:10,684 - check data  - INFO - ['5', '23']
+2025-11-29 12:02:10,829 - check data  - INFO - 2025-11-29
+2025-11-29 12:03:05,130 - check data  - INFO - 2025-11-29
+2025-11-29 12:03:05,139 - check data  - INFO - None | from_page=582 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 12:03:05,245 - check data  - INFO - 2025-11-29
+2025-11-29 12:04:04,097 - check data  - INFO - 2025-11-29
+2025-11-29 12:04:04,097 - check data  - INFO - 0
+2025-11-29 12:04:04,104 - check data  - INFO - None | from_page=582 | pages=0.5 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 12:04:04,206 - check data  - INFO - 2025-11-29
+2025-11-29 12:04:40,683 - check data  - INFO - 2025-11-29
+2025-11-29 12:04:40,684 - check data  - INFO - 0
+2025-11-29 12:04:40,689 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 12:04:40,794 - check data  - INFO - 2025-11-29
+2025-11-29 12:05:26,273 - check data  - INFO - 2025-11-29
+2025-11-29 12:05:26,275 - check data  - INFO - 2
+2025-11-29 12:05:26,280 - check data  - INFO - None | from_page=564 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 12:05:26,382 - check data  - INFO - 2025-11-29
+2025-11-29 12:08:32,935 - check data  - INFO - 2025-11-29
+2025-11-29 12:08:32,935 - check data  - INFO - 2
+2025-11-29 12:08:32,942 - check data  - INFO - None | from_page=585 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 12:08:33,051 - check data  - INFO - 2025-11-29
+2025-11-29 12:09:25,728 - check data  - INFO - 2025-11-29
+2025-11-29 12:09:26,375 - check data  - INFO - 2025-11-29
+2025-11-29 12:19:55,821 - check data  - INFO - 2025-11-29
+2025-11-29 12:19:55,822 - check data  - INFO - ['5', '29', '20', '6']
+2025-11-29 12:19:55,867 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(5, 2025-11-29) already exists.
+
+2025-11-29 12:19:55,973 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:05,254 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:05,254 - check data  - INFO - ['29']
+2025-11-29 12:20:05,399 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:09,813 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:09,813 - check data  - INFO - ['29']
+2025-11-29 12:20:09,853 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(29, 2025-11-29) already exists.
+
+2025-11-29 12:20:09,956 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:14,446 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:14,447 - check data  - INFO - ['29']
+2025-11-29 12:20:14,490 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(29, 2025-11-29) already exists.
+
+2025-11-29 12:20:14,598 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:18,085 - check data  - INFO - 2025-11-29
+2025-11-29 12:20:18,086 - check data  - INFO - ['29']
+2025-11-29 12:20:18,125 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(29, 2025-11-29) already exists.
+
+2025-11-29 12:20:18,227 - check data  - INFO - 2025-11-29
+2025-11-29 12:22:26,010 - check data  - INFO - 2025-11-29
+2025-11-29 12:22:26,010 - check data  - INFO - 0
+2025-11-29 12:22:26,017 - check data  - INFO - None | from_page=582 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-29 12:22:26,121 - check data  - INFO - 2025-11-29
+2025-11-29 12:22:32,618 - check data  - INFO - 2025-11-29
+2025-11-29 12:22:32,618 - check data  - INFO - ['29']
+2025-11-29 12:22:32,658 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(29, 2025-11-29) already exists.
+
+2025-11-29 12:22:32,766 - check data  - INFO - 2025-11-29
+2025-11-29 12:22:56,134 - check data  - INFO - 2025-11-29
+2025-11-29 12:22:56,246 - check data  - INFO - 2025-11-29
+2025-11-29 13:57:36,714 - check data  - INFO - 2025-11-29
+2025-11-29 13:57:36,714 - check data  - INFO - 1
+2025-11-29 13:57:36,723 - check data  - INFO - None | from_page=293 | pages=6.0 | evaluation=very good | misses=1 | note= | date=None | type=old
+2025-11-29 13:57:36,812 - check data  - INFO - 2025-11-29
+2025-11-29 13:58:15,433 - check data  - INFO - 2025-11-29
+2025-11-29 13:58:15,438 - check data  - INFO - None | from_page=15 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-29 13:58:15,531 - check data  - INFO - 2025-11-29
+2025-11-29 13:59:16,758 - check data  - INFO - 2025-11-29
+2025-11-29 13:59:16,764 - check data  - INFO - None | from_page=528 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 13:59:16,856 - check data  - INFO - 2025-11-29
+2025-11-29 13:59:49,381 - check data  - INFO - 2025-11-29
+2025-11-29 13:59:49,381 - check data  - INFO - 0
+2025-11-29 13:59:49,386 - check data  - INFO - None | from_page=17 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 13:59:49,474 - check data  - INFO - 2025-11-29
+2025-11-29 14:00:08,261 - check data  - INFO - 2025-11-29
+2025-11-29 14:00:08,262 - check data  - INFO - 0
+2025-11-29 14:00:08,267 - check data  - INFO - None | from_page=582 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 14:00:08,359 - check data  - INFO - 2025-11-29
+2025-11-29 14:00:46,190 - check data  - INFO - 2025-11-29
+2025-11-29 14:00:46,190 - check data  - INFO - 0
+2025-11-29 14:00:46,197 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 14:00:46,288 - check data  - INFO - 2025-11-29
+2025-11-29 14:01:29,196 - check data  - INFO - 2025-11-29
+2025-11-29 14:01:29,203 - check data  - INFO - None | from_page=542 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-29 14:01:29,293 - check data  - INFO - 2025-11-29
+2025-11-29 14:05:51,307 - check data  - INFO - 2025-11-29
+2025-11-29 14:05:51,314 - check data  - INFO - None | from_page=574 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:05:51,405 - check data  - INFO - 2025-11-29
+2025-11-29 14:06:59,703 - check data  - INFO - 2025-11-29
+2025-11-29 14:06:59,709 - check data  - INFO - None | from_page=293 | pages=10.5 | evaluation=excellent | misses=0 | note= | date=None | type=old
+2025-11-29 14:06:59,801 - check data  - INFO - 2025-11-29
+2025-11-29 14:09:35,268 - check data  - INFO - 2025-11-29
+2025-11-29 14:09:35,275 - check data  - INFO - None | from_page=16 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:09:35,365 - check data  - INFO - 2025-11-29
+2025-11-29 14:10:21,136 - check data  - INFO - 2025-11-29
+2025-11-29 14:10:21,144 - check data  - INFO - None | from_page=17 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:10:21,236 - check data  - INFO - 2025-11-29
+2025-11-29 14:10:43,309 - check data  - INFO - 2025-11-29
+2025-11-29 14:10:43,314 - check data  - INFO - None | from_page=15 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:10:43,406 - check data  - INFO - 2025-11-29
+2025-11-29 14:11:49,839 - check data  - INFO - 2025-11-29
+2025-11-29 14:11:49,844 - check data  - INFO - None | from_page=583 | pages=1.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2025-11-29 14:11:49,936 - check data  - INFO - 2025-11-29
+2025-11-29 14:12:25,702 - check data  - INFO - 2025-11-29
+2025-11-29 14:12:25,702 - check data  - INFO - ['22', '4', '16']
+2025-11-29 14:12:25,834 - check data  - INFO - 2025-11-29
+2025-11-29 14:13:28,786 - check data  - INFO - 2025-11-29
+2025-11-29 14:13:28,786 - check data  - INFO - 2
+2025-11-29 14:13:28,792 - check data  - INFO - None | from_page=577 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:13:28,882 - check data  - INFO - 2025-11-29
+2025-11-29 14:14:40,472 - check data  - INFO - 2025-11-29
+2025-11-29 14:14:40,473 - check data  - INFO - 2
+2025-11-29 14:14:40,479 - check data  - INFO - None | from_page=515 | pages=5.5 | evaluation=excellent | misses=3 | note= | date=None | type=old
+2025-11-29 14:14:40,568 - check data  - INFO - 2025-11-29
+2025-11-29 14:15:37,717 - check data  - INFO - 2025-11-29
+2025-11-29 14:15:37,718 - check data  - INFO - 2
+2025-11-29 14:15:37,722 - check data  - INFO - None | from_page=18 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:15:37,814 - check data  - INFO - 2025-11-29
+2025-11-29 14:16:14,711 - check data  - INFO - 2025-11-29
+2025-11-29 14:16:14,711 - check data  - INFO - 2
+2025-11-29 14:16:14,717 - check data  - INFO - None | from_page=531 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:16:14,808 - check data  - INFO - 2025-11-29
+2025-11-29 14:16:23,506 - check data  - INFO - 2025-11-29
+2025-11-29 14:16:23,605 - check data  - INFO - 2025-11-29
+2025-11-29 14:17:26,523 - check data  - INFO - 2025-11-29
+2025-11-29 14:17:26,523 - check data  - INFO - 0
+2025-11-29 14:17:26,530 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 14:17:26,628 - check data  - INFO - 2025-11-29
+2025-11-29 14:18:00,493 - check data  - INFO - 2025-11-29
+2025-11-29 14:18:00,494 - check data  - INFO - 1
+2025-11-29 14:18:00,498 - check data  - INFO - None | from_page=543 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-11-29 14:18:00,591 - check data  - INFO - 2025-11-29
+2025-11-29 14:18:36,692 - check data  - INFO - 2025-11-29
+2025-11-29 14:18:36,697 - check data  - INFO - None | from_page=580 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:18:36,790 - check data  - INFO - 2025-11-29
+2025-11-29 14:19:20,600 - check data  - INFO - 2025-11-29
+2025-11-29 14:19:20,606 - check data  - INFO - None | from_page=582 | pages=22.0 | evaluation=excellent | misses=0 | note= | date=None | type=old
+2025-11-29 14:19:20,699 - check data  - INFO - 2025-11-29
+2025-11-29 14:20:26,933 - check data  - INFO - 2025-11-29
+2025-11-29 14:20:26,938 - check data  - INFO - None | from_page=19 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:20:27,030 - check data  - INFO - 2025-11-29
+2025-11-29 14:21:19,021 - check data  - INFO - 2025-11-29
+2025-11-29 14:21:19,026 - check data  - INFO - None | from_page=532 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:21:19,116 - check data  - INFO - 2025-11-29
+2025-11-29 14:22:00,756 - check data  - INFO - 2025-11-29
+2025-11-29 14:22:00,762 - check data  - INFO - None | from_page=16 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:22:00,853 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:17,098 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:17,100 - check data  - INFO - 0
+2025-11-29 14:23:17,106 - check data  - INFO - None | from_page=582 | pages=1.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-29 14:23:17,194 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:31,623 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:31,715 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:41,439 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:41,534 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:50,037 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:50,127 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:58,331 - check data  - INFO - 2025-11-29
+2025-11-29 14:23:58,422 - check data  - INFO - 2025-11-29
+2025-11-29 14:24:03,580 - check data  - INFO - 2025-11-29
+2025-11-29 14:24:03,673 - check data  - INFO - 2025-11-29
+2025-11-29 14:24:40,715 - check data  - INFO - 2025-11-29
+2025-11-29 14:24:40,715 - check data  - INFO - 0
+2025-11-29 14:24:40,722 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 14:24:40,812 - check data  - INFO - 2025-11-29
+2025-11-29 14:25:10,713 - check data  - INFO - 2025-11-29
+2025-11-29 14:25:10,714 - check data  - INFO - 0
+2025-11-29 14:25:10,718 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 14:25:10,812 - check data  - INFO - 2025-11-29
+2025-11-29 14:25:42,792 - check data  - INFO - 2025-11-29
+2025-11-29 14:25:42,797 - check data  - INFO - None | from_page=544 | pages=1.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-11-29 14:25:42,892 - check data  - INFO - 2025-11-29
+2025-11-29 14:28:44,677 - check data  - INFO - 2025-11-29
+2025-11-29 14:28:44,682 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:28:44,768 - check data  - INFO - 2025-11-29
+2025-11-29 14:34:18,090 - check data  - INFO - 2025-11-29
+2025-11-29 14:34:18,090 - check data  - INFO - 1
+2025-11-29 14:34:18,097 - check data  - INFO - None | from_page=1 | pages=3.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-11-29 14:34:18,186 - check data  - INFO - 2025-11-29
+2025-11-29 14:34:30,573 - check data  - INFO - 2025-11-29
+2025-11-29 14:34:30,663 - check data  - INFO - 2025-11-29
+2025-11-29 14:35:24,326 - check data  - INFO - 2025-11-29
+2025-11-29 14:35:24,332 - check data  - INFO - None | from_page=20 | pages=2.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-11-29 14:35:24,421 - check data  - INFO - 2025-11-29
+2025-11-29 14:35:37,672 - check data  - INFO - 2025-11-29
+2025-11-29 14:35:37,764 - check data  - INFO - 2025-11-29
+2025-11-29 14:36:30,410 - check data  - INFO - 2025-11-29
+2025-11-29 14:36:30,416 - check data  - INFO - None | from_page=535 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:36:30,502 - check data  - INFO - 2025-11-29
+2025-11-29 14:36:43,771 - check data  - INFO - 2025-11-29
+2025-11-29 14:36:43,862 - check data  - INFO - 2025-11-29
+2025-11-29 14:37:46,783 - check data  - INFO - 2025-11-29
+2025-11-29 14:37:46,784 - check data  - INFO - 1
+2025-11-29 14:37:46,789 - check data  - INFO - None | from_page=17 | pages=1.0 | evaluation=very good | misses=3 | note= | date=None | type=new
+2025-11-29 14:37:46,876 - check data  - INFO - 2025-11-29
+2025-11-29 14:38:21,179 - check data  - INFO - 2025-11-29
+2025-11-29 14:38:21,179 - check data  - INFO - 0
+2025-11-29 14:38:21,183 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-11-29 14:38:21,272 - check data  - INFO - 2025-11-29
+2025-11-29 14:38:56,847 - check data  - INFO - 2025-11-29
+2025-11-29 14:38:56,852 - check data  - INFO - None | from_page=570 | pages=1.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2025-11-29 14:38:56,941 - check data  - INFO - 2025-11-29
+2025-11-29 14:39:45,910 - check data  - INFO - 2025-11-29
+2025-11-29 14:39:45,916 - check data  - INFO - None | from_page=565 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-11-29 14:39:46,006 - check data  - INFO - 2025-11-29
+2025-11-29 14:41:35,246 - check data  - INFO - 2025-11-29
+2025-11-29 14:41:35,252 - check data  - INFO - None | from_page=578 | pages=2.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-11-29 14:41:35,340 - check data  - INFO - 2025-11-29
+2025-11-29 14:41:40,703 - check data  - INFO - 2025-11-29
+2025-11-29 14:41:40,789 - check data  - INFO - 2025-11-29
+2025-11-29 14:42:22,364 - check data  - INFO - 2025-11-29
+2025-11-29 14:42:22,370 - check data  - INFO - None | from_page=50 | pages=20.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 14:42:22,459 - check data  - INFO - 2025-11-29
+2025-11-29 14:45:18,975 - check data  - INFO - 2025-11-29
+2025-11-29 14:45:19,066 - check data  - INFO - 2025-11-29
+2025-11-29 14:45:28,401 - check data  - INFO - 2025-11-29
+2025-11-29 14:45:28,492 - check data  - INFO - 2025-11-29
+2025-11-29 14:45:39,799 - check data  - INFO - 2025-11-29
+2025-11-29 14:45:39,891 - check data  - INFO - 2025-11-29
+2025-11-29 18:31:16,959 - check data  - INFO - 2025-11-29
+2025-11-29 18:31:16,968 - check data  - INFO - 2
+2025-11-29 18:31:17,013 - check data  - INFO - None | from_page=38 | pages=12.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:31:17,122 - check data  - INFO - 2025-11-29
+2025-11-29 18:31:26,320 - check data  - INFO - 2025-11-29
+2025-11-29 18:31:26,472 - check data  - INFO - 2025-11-29
+2025-11-29 18:33:16,448 - check data  - INFO - 2025-11-29
+2025-11-29 18:33:16,550 - check data  - INFO - 2025-11-29
+2025-11-29 18:41:41,684 - check data  - INFO - 2025-11-29
+2025-11-29 18:41:44,490 - check data  - INFO - 2025-11-29
+2025-11-29 18:41:45,413 - check data  - INFO - 2025-11-29
+2025-11-29 18:41:45,665 - check data  - INFO - 2025-11-29
+2025-11-29 18:41:45,873 - check data  - INFO - 2025-11-29
+2025-11-29 18:42:07,676 - check data  - INFO - 2025-11-29
+2025-11-29 18:42:07,676 - check data  - INFO - 2
+2025-11-29 18:42:07,685 - check data  - INFO - None | from_page=1 | pages=4.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:42:07,778 - check data  - INFO - 2025-11-29
+2025-11-29 18:45:54,400 - check data  - INFO - 2025-11-29
+2025-11-29 18:45:54,401 - check data  - INFO - 2
+2025-11-29 18:45:54,408 - check data  - INFO - None | from_page=522 | pages=6.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:45:54,502 - check data  - INFO - 2025-11-29
+2025-11-29 18:46:43,451 - check data  - INFO - 2025-11-29
+2025-11-29 18:46:43,452 - check data  - INFO - 2
+2025-11-29 18:46:43,457 - check data  - INFO - None | from_page=529 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:46:43,560 - check data  - INFO - 2025-11-29
+2025-11-29 18:47:48,781 - check data  - INFO - 2025-11-29
+2025-11-29 18:47:48,781 - check data  - INFO - 2
+2025-11-29 18:47:48,789 - check data  - INFO - None | from_page=536 | pages=6.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:47:48,897 - check data  - INFO - 2025-11-29
+2025-11-29 18:55:03,258 - check data  - INFO - 2025-11-29
+2025-11-29 18:55:03,268 - check data  - INFO - None | from_page=557 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:55:03,381 - check data  - INFO - 2025-11-29
+2025-11-29 18:57:19,956 - check data  - INFO - 2025-11-29
+2025-11-29 18:57:19,957 - check data  - INFO - 2
+2025-11-29 18:57:19,963 - check data  - INFO - None | from_page=549 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:57:20,068 - check data  - INFO - 2025-11-29
+2025-11-29 18:57:34,869 - check data  - INFO - 2025-11-29
+2025-11-29 18:57:34,870 - check data  - INFO - 2
+2025-11-29 18:57:34,877 - check data  - INFO - None | from_page=551 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 18:57:34,982 - check data  - INFO - 2025-11-29
+2025-11-29 19:03:09,321 - check data  - INFO - 2025-11-29
+2025-11-29 19:03:09,322 - check data  - INFO - 2
+2025-11-29 19:03:09,331 - check data  - INFO - None | from_page=314 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 19:03:09,428 - check data  - INFO - 2025-11-29
+2025-11-29 19:03:16,676 - check data  - INFO - 2025-11-29
+2025-11-29 19:03:16,785 - check data  - INFO - 2025-11-29
+2025-11-29 19:03:53,793 - check data  - INFO - 2025-11-29
+2025-11-29 19:03:53,894 - check data  - INFO - 2025-11-29
+2025-11-29 19:06:39,178 - check data  - INFO - 2025-11-29
+2025-11-29 19:06:39,186 - check data  - INFO - None | from_page=317 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-11-29 19:06:39,292 - check data  - INFO - 2025-11-29
+2025-11-29 20:48:06,651 - check data  - INFO - 2025-11-29
+2025-11-29 20:48:08,199 - check data  - INFO - 2025-11-29
+2025-11-29 20:48:08,910 - check data  - INFO - 2025-11-29
+2025-11-29 20:48:09,147 - check data  - INFO - 2025-11-29
+2025-12-03 22:52:39,392 - check data  - INFO - 2025-12-03
+2025-12-05 19:46:58,331 - check data  - INFO - 2025-12-05
+2025-12-05 19:47:48,365 - check data  - INFO - 2025-12-05
+2025-12-05 19:47:48,757 - check data  - INFO - None | from_page=515 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 19:47:48,855 - check data  - INFO - 2025-12-05
+2025-12-05 19:48:39,071 - check data  - INFO - 2025-12-05
+2025-12-05 19:48:39,176 - check data  - INFO - 2025-12-05
+2025-12-05 19:49:30,276 - check data  - INFO - 2025-12-05
+2025-12-05 19:49:30,282 - check data  - INFO - None | from_page=517 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 19:49:30,387 - check data  - INFO - 2025-12-05
+2025-12-05 19:49:49,746 - check data  - INFO - 2025-12-05
+2025-12-05 19:49:49,754 - check data  - INFO - None | from_page=519 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 19:49:49,857 - check data  - INFO - 2025-12-05
+2025-12-05 19:51:17,837 - check data  - INFO - 2025-12-05
+2025-12-05 19:51:17,844 - check data  - INFO - None | from_page=537 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 19:51:17,952 - check data  - INFO - 2025-12-05
+2025-12-05 19:51:43,877 - check data  - INFO - 2025-12-05
+2025-12-05 19:51:43,878 - check data  - INFO - 2
+2025-12-05 19:51:43,884 - check data  - INFO - None | from_page=539 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 19:51:43,987 - check data  - INFO - 2025-12-05
+2025-12-05 20:04:03,757 - check data  - INFO - 2025-12-05
+2025-12-05 20:04:03,861 - check data  - INFO - 2025-12-05
+2025-12-05 20:04:25,723 - check data  - INFO - 2025-12-05
+2025-12-05 20:04:25,724 - check data  - INFO - 2
+2025-12-05 20:04:25,730 - check data  - INFO - None | from_page=8 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:04:25,837 - check data  - INFO - 2025-12-05
+2025-12-05 20:05:14,493 - check data  - INFO - 2025-12-05
+2025-12-05 20:05:14,494 - check data  - INFO - 2
+2025-12-05 20:05:14,501 - check data  - INFO - None | from_page=11 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:05:14,604 - check data  - INFO - 2025-12-05
+2025-12-05 20:05:34,119 - check data  - INFO - 2025-12-05
+2025-12-05 20:05:34,119 - check data  - INFO - 2
+2025-12-05 20:05:34,125 - check data  - INFO - None | from_page=528 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:05:34,224 - check data  - INFO - 2025-12-05
+2025-12-05 20:06:21,699 - check data  - INFO - 2025-12-05
+2025-12-05 20:06:21,700 - check data  - INFO - 2
+2025-12-05 20:06:21,706 - check data  - INFO - None | from_page=551 | pages=11.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:06:21,804 - check data  - INFO - 2025-12-05
+2025-12-05 20:08:33,720 - check data  - INFO - 2025-12-05
+2025-12-05 20:08:33,827 - check data  - INFO - 2025-12-05
+2025-12-05 20:14:32,109 - check data  - INFO - 2025-12-05
+2025-12-05 20:14:32,109 - check data  - INFO - 2
+2025-12-05 20:14:32,115 - check data  - INFO - None | from_page=50 | pages=14.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:14:32,239 - check data  - INFO - 2025-12-05
+2025-12-05 20:14:52,212 - check data  - INFO - 2025-12-05
+2025-12-05 20:14:52,213 - check data  - INFO - 2
+2025-12-05 20:14:52,219 - check data  - INFO - None | from_page=66 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:14:52,318 - check data  - INFO - 2025-12-05
+2025-12-05 20:15:11,094 - check data  - INFO - 2025-12-05
+2025-12-05 20:15:11,095 - check data  - INFO - 2
+2025-12-05 20:15:11,102 - check data  - INFO - None | from_page=76 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-05 20:15:11,199 - check data  - INFO - 2025-12-05
+2025-12-20 12:02:03,962 - check data  - INFO - 2025-12-20
+2025-12-20 12:05:29,809 - check data  - INFO - 2025-12-20
+2025-12-20 12:05:29,809 - check data  - INFO - 0
+2025-12-20 12:05:30,200 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-12-20 12:05:30,304 - check data  - INFO - 2025-12-20
+2025-12-20 12:07:00,206 - check data  - INFO - 2025-12-20
+2025-12-20 12:07:00,206 - check data  - INFO - 0
+2025-12-20 12:07:00,213 - check data  - INFO - None | from_page=18 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2025-12-20 12:07:00,301 - check data  - INFO - 2025-12-20
+2025-12-20 12:07:16,863 - check data  - INFO - 2025-12-20
+2025-12-20 12:07:16,864 - check data  - INFO - ['4']
+2025-12-20 12:07:16,984 - check data  - INFO - 2025-12-20
+2025-12-20 12:09:04,134 - check data  - INFO - 2025-12-20
+2025-12-20 12:09:04,134 - check data  - INFO - 1
+2025-12-20 12:09:04,140 - check data  - INFO - None | from_page=564 | pages=0.5 | evaluation=very good | misses=2 | note= | date=None | type=new
+2025-12-20 12:09:04,228 - check data  - INFO - 2025-12-20
+2025-12-20 12:09:58,965 - check data  - INFO - 2025-12-20
+2025-12-20 12:09:58,965 - check data  - INFO - ['8']
+2025-12-20 12:09:59,105 - check data  - INFO - 2025-12-20
+2025-12-20 12:10:47,195 - check data  - INFO - 2025-12-20
+2025-12-20 12:10:47,195 - check data  - INFO - 2
+2025-12-20 12:10:47,200 - check data  - INFO - None | from_page=562 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:10:47,285 - check data  - INFO - 2025-12-20
+2025-12-20 12:11:55,421 - check data  - INFO - 2025-12-20
+2025-12-20 12:11:55,421 - check data  - INFO - 2
+2025-12-20 12:11:55,426 - check data  - INFO - None | from_page=584 | pages=0.5 | evaluation=excellent | misses=2 | note= | date=None | type=new
+2025-12-20 12:11:55,513 - check data  - INFO - 2025-12-20
+2025-12-20 12:12:45,394 - check data  - INFO - 2025-12-20
+2025-12-20 12:12:45,401 - check data  - INFO - None | from_page=18 | pages=2.0 | evaluation=excellent | misses=2 | note= | date=None | type=new
+2025-12-20 12:12:45,485 - check data  - INFO - 2025-12-20
+2025-12-20 12:13:31,347 - check data  - INFO - 2025-12-20
+2025-12-20 12:13:31,347 - check data  - INFO - 2
+2025-12-20 12:13:31,354 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:13:31,439 - check data  - INFO - 2025-12-20
+2025-12-20 12:14:14,812 - check data  - INFO - 2025-12-20
+2025-12-20 12:14:14,818 - check data  - INFO - None | from_page=563 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2025-12-20 12:14:14,905 - check data  - INFO - 2025-12-20
+2025-12-20 12:15:11,107 - check data  - INFO - 2025-12-20
+2025-12-20 12:15:11,113 - check data  - INFO - None | from_page=565 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-12-20 12:15:11,552 - check data  - INFO - 2025-12-20
+2025-12-20 12:22:04,617 - check data  - INFO - 2025-12-20
+2025-12-20 12:22:04,618 - check data  - INFO - 2
+2025-12-20 12:22:04,625 - check data  - INFO - None | from_page=298 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:22:04,721 - check data  - INFO - 2025-12-20
+2025-12-20 12:22:32,861 - check data  - INFO - 2025-12-20
+2025-12-20 12:22:32,861 - check data  - INFO - 2
+2025-12-20 12:22:32,867 - check data  - INFO - None | from_page=302 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:22:32,965 - check data  - INFO - 2025-12-20
+2025-12-20 12:23:25,647 - check data  - INFO - 2025-12-20
+2025-12-20 12:23:25,654 - check data  - INFO - None | from_page=564 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:23:25,736 - check data  - INFO - 2025-12-20
+2025-12-20 12:25:09,907 - check data  - INFO - 2025-12-20
+2025-12-20 12:25:09,913 - check data  - INFO - None | from_page=585 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:25:09,996 - check data  - INFO - 2025-12-20
+2025-12-20 12:25:43,792 - check data  - INFO - 2025-12-20
+2025-12-20 12:25:43,798 - check data  - INFO - None | from_page=20 | pages=1.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2025-12-20 12:25:43,881 - check data  - INFO - 2025-12-20
+2025-12-20 12:26:51,836 - check data  - INFO - 2025-12-20
+2025-12-20 12:26:51,843 - check data  - INFO - None | from_page=49 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:26:51,927 - check data  - INFO - 2025-12-20
+2025-12-20 12:27:19,584 - check data  - INFO - 2025-12-20
+2025-12-20 12:27:19,589 - check data  - INFO - None | from_page=50 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:27:19,669 - check data  - INFO - 2025-12-20
+2025-12-20 12:27:54,527 - check data  - INFO - 2025-12-20
+2025-12-20 12:27:54,535 - check data  - INFO - None | from_page=562 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:27:54,618 - check data  - INFO - 2025-12-20
+2025-12-20 12:28:19,166 - check data  - INFO - 2025-12-20
+2025-12-20 12:28:19,167 - check data  - INFO - ['27']
+2025-12-20 12:28:19,285 - check data  - INFO - 2025-12-20
+2025-12-20 12:29:00,227 - check data  - INFO - 2025-12-20
+2025-12-20 12:29:00,233 - check data  - INFO - None | from_page=8 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:29:00,315 - check data  - INFO - 2025-12-20
+2025-12-20 12:29:50,782 - check data  - INFO - 2025-12-20
+2025-12-20 12:29:50,786 - check data  - INFO - None | from_page=51 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:29:50,868 - check data  - INFO - 2025-12-20
+2025-12-20 12:30:29,193 - check data  - INFO - 2025-12-20
+2025-12-20 12:30:29,198 - check data  - INFO - None | from_page=563 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:30:29,281 - check data  - INFO - 2025-12-20
+2025-12-20 12:31:24,611 - check data  - INFO - 2025-12-20
+2025-12-20 12:31:24,617 - check data  - INFO - None | from_page=12 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:31:24,701 - check data  - INFO - 2025-12-20
+2025-12-20 12:31:48,234 - check data  - INFO - 2025-12-20
+2025-12-20 12:31:48,239 - check data  - INFO - None | from_page=54 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:31:48,323 - check data  - INFO - 2025-12-20
+2025-12-20 12:32:04,275 - check data  - INFO - 2025-12-20
+2025-12-20 12:32:04,364 - check data  - INFO - 2025-12-20
+2025-12-20 12:32:10,840 - check data  - INFO - 2025-12-20
+2025-12-20 12:32:10,840 - check data  - INFO - ['27']
+2025-12-20 12:32:10,880 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(27, 2025-12-20) already exists.
+
+2025-12-20 12:32:10,964 - check data  - INFO - 2025-12-20
+2025-12-20 12:32:21,925 - check data  - INFO - 2025-12-20
+2025-12-20 12:32:21,926 - check data  - INFO - ['27']
+2025-12-20 12:32:21,959 - check data  - ERROR - duplicate key value violates unique constraint "absences_pkey"
+DETAIL:  Key (student_id, day_date)=(27, 2025-12-20) already exists.
+
+2025-12-20 12:32:22,047 - check data  - INFO - 2025-12-20
+2025-12-20 12:33:07,734 - check data  - INFO - 2025-12-20
+2025-12-20 12:33:07,740 - check data  - INFO - None | from_page=564 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:33:07,826 - check data  - INFO - 2025-12-20
+2025-12-20 12:33:16,788 - check data  - INFO - 2025-12-20
+2025-12-20 12:33:16,873 - check data  - INFO - 2025-12-20
+2025-12-20 12:34:11,785 - check data  - INFO - 2025-12-20
+2025-12-20 12:34:11,869 - check data  - INFO - 2025-12-20
+2025-12-20 12:35:01,045 - check data  - INFO - 2025-12-20
+2025-12-20 12:35:01,050 - check data  - INFO - None | from_page=55 | pages=6.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:35:01,138 - check data  - INFO - 2025-12-20
+2025-12-20 12:35:40,143 - check data  - INFO - 2025-12-20
+2025-12-20 12:35:40,149 - check data  - INFO - None | from_page=565 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:35:40,238 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:23,139 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:23,144 - check data  - INFO - None | from_page=566 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:36:23,225 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:44,478 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:44,568 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:49,921 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:50,018 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:58,305 - check data  - INFO - 2025-12-20
+2025-12-20 12:36:58,390 - check data  - INFO - 2025-12-20
+2025-12-20 12:37:44,372 - check data  - INFO - 2025-12-20
+2025-12-20 12:37:44,378 - check data  - INFO - None | from_page=21 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:37:44,460 - check data  - INFO - 2025-12-20
+2025-12-20 12:37:49,001 - check data  - INFO - 2025-12-20
+2025-12-20 12:37:49,092 - check data  - INFO - 2025-12-20
+2025-12-20 12:39:32,156 - check data  - INFO - 2025-12-20
+2025-12-20 12:39:32,156 - check data  - INFO - 2
+2025-12-20 12:39:32,161 - check data  - INFO - None | from_page=11 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:39:32,245 - check data  - INFO - 2025-12-20
+2025-12-20 12:39:48,012 - check data  - INFO - 2025-12-20
+2025-12-20 12:39:48,012 - check data  - INFO - 2
+2025-12-20 12:39:48,017 - check data  - INFO - None | from_page=14 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:39:48,105 - check data  - INFO - 2025-12-20
+2025-12-20 12:40:48,771 - check data  - INFO - 2025-12-20
+2025-12-20 12:40:48,777 - check data  - INFO - None | from_page=61 | pages=4.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-12-20 12:40:48,862 - check data  - INFO - 2025-12-20
+2025-12-20 12:41:32,384 - check data  - INFO - 2025-12-20
+2025-12-20 12:41:32,390 - check data  - INFO - None | from_page=567 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:41:32,475 - check data  - INFO - 2025-12-20
+2025-12-20 12:41:57,285 - check data  - INFO - 2025-12-20
+2025-12-20 12:41:57,286 - check data  - INFO - 2
+2025-12-20 12:41:57,291 - check data  - INFO - None | from_page=569 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 12:41:57,377 - check data  - INFO - 2025-12-20
+2025-12-20 12:43:50,636 - check data  - INFO - 2025-12-20
+2025-12-20 12:43:51,063 - check data  - INFO - 2025-12-20
+2025-12-20 12:43:57,719 - check data  - INFO - 2025-12-20
+2025-12-20 12:43:57,804 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:04,622 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:04,706 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:11,331 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:11,415 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:19,247 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:19,339 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:26,270 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:26,447 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:44,792 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:44,878 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:53,752 - check data  - INFO - 2025-12-20
+2025-12-20 12:44:53,840 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:01,600 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:01,686 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:10,895 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:10,979 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:17,795 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:17,882 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:25,883 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:25,971 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:37,582 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:37,675 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:42,829 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:42,913 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:51,388 - check data  - INFO - 2025-12-20
+2025-12-20 12:45:51,472 - check data  - INFO - 2025-12-20
+2025-12-20 13:38:20,823 - check data  - INFO - 2025-12-20
+2025-12-20 13:38:20,831 - check data  - INFO - None | from_page=582 | pages=23.0 | evaluation=excellent | misses=2 | note= | date=None | type=old
+2025-12-20 13:38:20,915 - check data  - INFO - 2025-12-20
+2025-12-20 13:39:06,769 - check data  - INFO - 2025-12-20
+2025-12-20 13:39:06,775 - check data  - INFO - None | from_page=565 | pages=1.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:39:06,861 - check data  - INFO - 2025-12-20
+2025-12-20 13:40:08,109 - check data  - INFO - 2025-12-20
+2025-12-20 13:40:08,115 - check data  - INFO - None | from_page=4 | pages=3.0 | evaluation=very good | misses=3 | note= | date=None | type=new
+2025-12-20 13:40:08,209 - check data  - INFO - 2025-12-20
+2025-12-20 13:40:28,515 - check data  - INFO - 2025-12-20
+2025-12-20 13:40:28,522 - check data  - INFO - None | from_page=22 | pages=4.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:40:28,719 - check data  - INFO - 2025-12-20
+2025-12-20 13:41:37,272 - check data  - INFO - 2025-12-20
+2025-12-20 13:41:37,278 - check data  - INFO - None | from_page=536 | pages=3.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2025-12-20 13:41:37,363 - check data  - INFO - 2025-12-20
+2025-12-20 13:42:45,044 - check data  - INFO - 2025-12-20
+2025-12-20 13:42:45,049 - check data  - INFO - None | from_page=567 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:42:45,137 - check data  - INFO - 2025-12-20
+2025-12-20 13:43:17,286 - check data  - INFO - 2025-12-20
+2025-12-20 13:43:17,293 - check data  - INFO - None | from_page=7 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:43:17,381 - check data  - INFO - 2025-12-20
+2025-12-20 13:43:42,657 - check data  - INFO - 2025-12-20
+2025-12-20 13:43:42,663 - check data  - INFO - None | from_page=25 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:43:42,745 - check data  - INFO - 2025-12-20
+2025-12-20 13:44:29,622 - check data  - INFO - 2025-12-20
+2025-12-20 13:44:29,628 - check data  - INFO - None | from_page=539 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:44:29,715 - check data  - INFO - 2025-12-20
+2025-12-20 13:44:56,956 - check data  - INFO - 2025-12-20
+2025-12-20 13:44:56,962 - check data  - INFO - None | from_page=547 | pages=2.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2025-12-20 13:44:57,052 - check data  - INFO - 2025-12-20
+2025-12-20 13:46:03,536 - check data  - INFO - 2025-12-20
+2025-12-20 13:46:03,542 - check data  - INFO - None | from_page=570 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:46:03,625 - check data  - INFO - 2025-12-20
+2025-12-20 13:46:47,122 - check data  - INFO - 2025-12-20
+2025-12-20 13:46:47,127 - check data  - INFO - None | from_page=9 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:46:47,211 - check data  - INFO - 2025-12-20
+2025-12-20 13:47:25,838 - check data  - INFO - 2025-12-20
+2025-12-20 13:47:25,845 - check data  - INFO - None | from_page=29 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:47:25,932 - check data  - INFO - 2025-12-20
+2025-12-20 13:53:53,637 - check data  - INFO - 2025-12-20
+2025-12-20 13:53:53,643 - check data  - INFO - None | from_page=515 | pages=2.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:53:53,729 - check data  - INFO - 2025-12-20
+2025-12-20 13:55:54,281 - check data  - INFO - 2025-12-20
+2025-12-20 13:55:54,287 - check data  - INFO - None | from_page=549 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-12-20 13:55:54,370 - check data  - INFO - 2025-12-20
+2025-12-20 13:56:39,851 - check data  - INFO - 2025-12-20
+2025-12-20 13:56:39,856 - check data  - INFO - None | from_page=571 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2025-12-20 13:56:39,939 - check data  - INFO - 2025-12-20
+2025-12-20 13:57:15,822 - check data  - INFO - 2025-12-20
+2025-12-20 13:57:15,823 - check data  - INFO - 2
+2025-12-20 13:57:15,828 - check data  - INFO - None | from_page=11 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 13:57:15,910 - check data  - INFO - 2025-12-20
+2025-12-20 13:57:26,651 - check data  - INFO - 2025-12-20
+2025-12-20 13:57:26,739 - check data  - INFO - 2025-12-20
+2025-12-20 13:58:28,630 - check data  - INFO - 2025-12-20
+2025-12-20 13:58:28,724 - check data  - INFO - 2025-12-20
+2025-12-20 14:00:08,898 - check data  - INFO - 2025-12-20
+2025-12-20 14:00:08,904 - check data  - INFO - None | from_page=30 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 14:00:09,093 - check data  - INFO - 2025-12-20
+2025-12-20 14:00:52,950 - check data  - INFO - 2025-12-20
+2025-12-20 14:00:52,955 - check data  - INFO - None | from_page=1 | pages=6.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 14:00:53,042 - check data  - INFO - 2025-12-20
+2025-12-20 14:02:15,405 - check data  - INFO - 2025-12-20
+2025-12-20 14:02:15,412 - check data  - INFO - None | from_page=572 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 14:02:15,498 - check data  - INFO - 2025-12-20
+2025-12-20 14:02:40,054 - check data  - INFO - 2025-12-20
+2025-12-20 14:02:40,054 - check data  - INFO - 2
+2025-12-20 14:02:40,059 - check data  - INFO - None | from_page=13 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 14:02:40,140 - check data  - INFO - 2025-12-20
+2025-12-20 14:03:20,891 - check data  - INFO - 2025-12-20
+2025-12-20 14:03:20,892 - check data  - INFO - 2
+2025-12-20 14:03:20,897 - check data  - INFO - None | from_page=32 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2025-12-20 14:03:20,976 - check data  - INFO - 2025-12-20
+2025-12-20 14:03:57,924 - check data  - INFO - 2025-12-20
+2025-12-20 14:03:57,929 - check data  - INFO - None | from_page=7 | pages=4.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2025-12-20 14:03:58,015 - check data  - INFO - 2025-12-20
+2026-01-02 20:55:31,123 - check data  - INFO - 2026-01-02
+2026-01-02 20:58:10,782 - check data  - INFO - 2026-01-02
+2026-01-02 20:58:10,783 - check data  - INFO - 0
+2026-01-02 20:58:11,168 - check data  - INFO - None | from_page=293 | pages=3.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-02 20:58:11,263 - check data  - INFO - 2026-01-02
+2026-01-02 20:58:48,300 - check data  - INFO - 2026-01-02
+2026-01-02 20:58:48,306 - check data  - INFO - None | from_page=21 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 20:58:48,402 - check data  - INFO - 2026-01-02
+2026-01-02 20:59:40,384 - check data  - INFO - 2026-01-02
+2026-01-02 20:59:40,390 - check data  - INFO - None | from_page=45 | pages=2.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-02 20:59:40,479 - check data  - INFO - 2026-01-02
+2026-01-02 21:00:03,462 - check data  - INFO - 2026-01-02
+2026-01-02 21:00:03,463 - check data  - INFO - 0
+2026-01-02 21:00:03,469 - check data  - INFO - None | from_page=20 | pages=4.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-02 21:00:03,562 - check data  - INFO - 2026-01-02
+2026-01-02 21:00:31,104 - check data  - INFO - 2026-01-02
+2026-01-02 21:00:31,104 - check data  - INFO - 0
+2026-01-02 21:00:31,109 - check data  - INFO - None | from_page=555 | pages=2.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-02 21:00:31,202 - check data  - INFO - 2026-01-02
+2026-01-02 21:01:11,795 - check data  - INFO - 2026-01-02
+2026-01-02 21:01:11,801 - check data  - INFO - None | from_page=20 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:01:11,891 - check data  - INFO - 2026-01-02
+2026-01-02 21:01:48,768 - check data  - INFO - 2026-01-02
+2026-01-02 21:01:48,773 - check data  - INFO - None | from_page=71 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:01:48,861 - check data  - INFO - 2026-01-02
+2026-01-02 21:02:27,293 - check data  - INFO - 2026-01-02
+2026-01-02 21:02:27,299 - check data  - INFO - None | from_page=574 | pages=1.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:02:27,383 - check data  - INFO - 2026-01-02
+2026-01-02 21:03:04,841 - check data  - INFO - 2026-01-02
+2026-01-02 21:03:04,847 - check data  - INFO - None | from_page=19 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:03:04,937 - check data  - INFO - 2026-01-02
+2026-01-02 21:03:29,137 - check data  - INFO - 2026-01-02
+2026-01-02 21:03:29,142 - check data  - INFO - None | from_page=70 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:03:29,229 - check data  - INFO - 2026-01-02
+2026-01-02 21:03:52,849 - check data  - INFO - 2026-01-02
+2026-01-02 21:03:52,854 - check data  - INFO - None | from_page=572 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:03:52,943 - check data  - INFO - 2026-01-02
+2026-01-02 21:04:03,942 - check data  - INFO - 2026-01-02
+2026-01-02 21:04:04,034 - check data  - INFO - 2026-01-02
+2026-01-02 21:04:34,471 - check data  - INFO - 2026-01-02
+2026-01-02 21:04:34,477 - check data  - INFO - None | from_page=17 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:04:34,574 - check data  - INFO - 2026-01-02
+2026-01-02 21:05:16,089 - check data  - INFO - 2026-01-02
+2026-01-02 21:05:16,089 - check data  - INFO - 2
+2026-01-02 21:05:16,094 - check data  - INFO - None | from_page=65 | pages=5.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:05:16,180 - check data  - INFO - 2026-01-02
+2026-01-02 21:05:50,953 - check data  - INFO - 2026-01-02
+2026-01-02 21:05:50,954 - check data  - INFO - 2
+2026-01-02 21:05:50,959 - check data  - INFO - None | from_page=570 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:05:51,046 - check data  - INFO - 2026-01-02
+2026-01-02 21:06:31,165 - check data  - INFO - 2026-01-02
+2026-01-02 21:06:31,166 - check data  - INFO - 0
+2026-01-02 21:06:31,172 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2026-01-02 21:06:31,257 - check data  - INFO - 2026-01-02
+2026-01-02 21:06:57,930 - check data  - INFO - 2026-01-02
+2026-01-02 21:06:57,931 - check data  - INFO - 0
+2026-01-02 21:06:57,936 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2026-01-02 21:06:58,026 - check data  - INFO - 2026-01-02
+2026-01-02 21:07:23,229 - check data  - INFO - 2026-01-02
+2026-01-02 21:07:23,229 - check data  - INFO - 0
+2026-01-02 21:07:23,235 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2026-01-02 21:07:23,329 - check data  - INFO - 2026-01-02
+2026-01-02 21:08:02,131 - check data  - INFO - 2026-01-02
+2026-01-02 21:08:02,138 - check data  - INFO - None | from_page=566 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:08:02,229 - check data  - INFO - 2026-01-02
+2026-01-02 21:09:27,256 - check data  - INFO - 2026-01-02
+2026-01-02 21:09:27,261 - check data  - INFO - None | from_page=587 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:09:27,356 - check data  - INFO - 2026-01-02
+2026-01-02 21:10:18,060 - check data  - INFO - 2026-01-02
+2026-01-02 21:10:18,060 - check data  - INFO - 0
+2026-01-02 21:10:18,067 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=3 | note= | date=None | type=new
+2026-01-02 21:10:18,159 - check data  - INFO - 2026-01-02
+2026-01-02 21:12:11,314 - check data  - INFO - 2026-01-02
+2026-01-02 21:12:11,315 - check data  - INFO - 2
+2026-01-02 21:12:11,320 - check data  - INFO - None | from_page=573 | pages=4.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:12:11,410 - check data  - INFO - 2026-01-02
+2026-01-02 21:12:26,699 - check data  - INFO - 2026-01-02
+2026-01-02 21:12:26,793 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:01,267 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:01,267 - check data  - INFO - 2
+2026-01-02 21:13:01,272 - check data  - INFO - None | from_page=14 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:13:01,465 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:09,296 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:09,389 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:45,185 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:45,185 - check data  - INFO - 2
+2026-01-02 21:13:45,191 - check data  - INFO - None | from_page=34 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:13:45,280 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:51,313 - check data  - INFO - 2026-01-02
+2026-01-02 21:13:51,404 - check data  - INFO - 2026-01-02
+2026-01-02 21:14:32,938 - check data  - INFO - 2026-01-02
+2026-01-02 21:14:32,944 - check data  - INFO - None | from_page=11 | pages=3.0 | evaluation=very good | misses=3 | note= | date=None | type=new
+2026-01-02 21:14:33,035 - check data  - INFO - 2026-01-02
+2026-01-02 21:15:04,643 - check data  - INFO - 2026-01-02
+2026-01-02 21:15:04,643 - check data  - INFO - 2
+2026-01-02 21:15:04,648 - check data  - INFO - None | from_page=550 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:15:04,740 - check data  - INFO - 2026-01-02
+2026-01-02 21:16:35,397 - check data  - INFO - 2026-01-02
+2026-01-02 21:16:35,397 - check data  - INFO - 1
+2026-01-02 21:16:35,403 - check data  - INFO - None | from_page=587 | pages=0.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-02 21:16:35,492 - check data  - INFO - 2026-01-02
+2026-01-02 21:17:07,239 - check data  - INFO - 2026-01-02
+2026-01-02 21:17:07,240 - check data  - INFO - 1
+2026-01-02 21:17:07,247 - check data  - INFO - None | from_page=588 | pages=0.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-02 21:17:07,344 - check data  - INFO - 2026-01-02
+2026-01-02 21:17:41,991 - check data  - INFO - 2026-01-02
+2026-01-02 21:17:41,997 - check data  - INFO - None | from_page=564 | pages=1.0 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-02 21:17:42,088 - check data  - INFO - 2026-01-02
+2026-01-02 21:18:12,616 - check data  - INFO - 2026-01-02
+2026-01-02 21:18:12,616 - check data  - INFO - 0
+2026-01-02 21:18:12,623 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=0 | note= | date=None | type=new
+2026-01-02 21:18:12,712 - check data  - INFO - 2026-01-02
+2026-01-02 21:18:40,999 - check data  - INFO - 2026-01-02
+2026-01-02 21:18:41,000 - check data  - INFO - 1
+2026-01-02 21:18:41,007 - check data  - INFO - None | from_page=565 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-02 21:18:41,096 - check data  - INFO - 2026-01-02
+2026-01-02 21:19:31,958 - check data  - INFO - 2026-01-02
+2026-01-02 21:19:31,964 - check data  - INFO - None | from_page=25 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:19:32,056 - check data  - INFO - 2026-01-02
+2026-01-02 21:19:58,850 - check data  - INFO - 2026-01-02
+2026-01-02 21:19:58,851 - check data  - INFO - 0
+2026-01-02 21:19:58,856 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=0 | note= | date=None | type=new
+2026-01-02 21:19:58,949 - check data  - INFO - 2026-01-02
+2026-01-02 21:21:24,022 - check data  - INFO - 2026-01-02
+2026-01-02 21:21:24,023 - check data  - INFO - 2
+2026-01-02 21:21:24,031 - check data  - INFO - None | from_page=603 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:21:24,146 - check data  - INFO - 2026-01-02
+2026-01-02 21:21:39,612 - check data  - INFO - 2026-01-02
+2026-01-02 21:21:39,613 - check data  - INFO - 2
+2026-01-02 21:21:39,618 - check data  - INFO - None | from_page=603 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:21:39,707 - check data  - INFO - 2026-01-02
+2026-01-02 21:22:06,021 - check data  - INFO - 2026-01-02
+2026-01-02 21:22:06,022 - check data  - INFO - 1
+2026-01-02 21:22:06,028 - check data  - INFO - None | from_page=25 | pages=1.0 | evaluation=very good | misses=0 | note= | date=None | type=old
+2026-01-02 21:22:06,130 - check data  - INFO - 2026-01-02
+2026-01-02 21:22:35,087 - check data  - INFO - 2026-01-02
+2026-01-02 21:22:35,088 - check data  - INFO - 0
+2026-01-02 21:22:35,094 - check data  - INFO - None | from_page=604 | pages=1.0 | evaluation=did not memorize | misses=0 | note= | date=None | type=new
+2026-01-02 21:22:35,187 - check data  - INFO - 2026-01-02
+2026-01-02 21:24:18,367 - check data  - INFO - 2026-01-02
+2026-01-02 21:24:18,367 - check data  - INFO - 0
+2026-01-02 21:24:18,372 - check data  - INFO - None | from_page=586 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-02 21:24:18,462 - check data  - INFO - 2026-01-02
+2026-01-02 21:25:02,330 - check data  - INFO - 2026-01-02
+2026-01-02 21:25:02,335 - check data  - INFO - None | from_page=22 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:25:02,421 - check data  - INFO - 2026-01-02
+2026-01-02 21:25:40,807 - check data  - INFO - 2026-01-02
+2026-01-02 21:25:40,808 - check data  - INFO - 2
+2026-01-02 21:25:40,813 - check data  - INFO - None | from_page=602 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:25:40,904 - check data  - INFO - 2026-01-02
+2026-01-02 21:26:40,391 - check data  - INFO - 2026-01-02
+2026-01-02 21:26:40,397 - check data  - INFO - None | from_page=577 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:26:40,488 - check data  - INFO - 2026-01-02
+2026-01-02 21:27:21,729 - check data  - INFO - 2026-01-02
+2026-01-02 21:27:21,737 - check data  - INFO - None | from_page=17 | pages=2.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-02 21:27:21,824 - check data  - INFO - 2026-01-02
+2026-01-02 21:27:57,823 - check data  - INFO - 2026-01-02
+2026-01-02 21:27:57,829 - check data  - INFO - None | from_page=36 | pages=2.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-02 21:27:57,920 - check data  - INFO - 2026-01-02
+2026-01-02 21:29:01,147 - check data  - INFO - 2026-01-02
+2026-01-02 21:29:01,154 - check data  - INFO - None | from_page=14 | pages=2.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-01-02 21:29:01,250 - check data  - INFO - 2026-01-02
+2026-01-02 21:29:47,889 - check data  - INFO - 2026-01-02
+2026-01-02 21:29:47,895 - check data  - INFO - None | from_page=552 | pages=2.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-01-02 21:29:47,986 - check data  - INFO - 2026-01-02
+2026-01-02 21:31:03,470 - check data  - INFO - 2026-01-02
+2026-01-02 21:31:03,476 - check data  - INFO - None | from_page=578 | pages=4.0 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-02 21:31:03,564 - check data  - INFO - 2026-01-02
+2026-01-02 21:31:51,832 - check data  - INFO - 2026-01-02
+2026-01-02 21:31:51,840 - check data  - INFO - None | from_page=19 | pages=2.0 | evaluation=very good | misses=3 | note= | date=None | type=new
+2026-01-02 21:31:51,949 - check data  - INFO - 2026-01-02
+2026-01-02 21:33:12,521 - check data  - INFO - 2026-01-02
+2026-01-02 21:33:12,529 - check data  - INFO - None | from_page=38 | pages=7.0 | evaluation=excellent | misses=3 | note= | date=None | type=new
+2026-01-02 21:33:12,621 - check data  - INFO - 2026-01-02
+2026-01-02 21:34:12,965 - check data  - INFO - 2026-01-02
+2026-01-02 21:34:12,971 - check data  - INFO - None | from_page=16 | pages=4.0 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-02 21:34:13,059 - check data  - INFO - 2026-01-02
+2026-01-02 21:34:41,922 - check data  - INFO - 2026-01-02
+2026-01-02 21:34:41,928 - check data  - INFO - None | from_page=554 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:34:42,019 - check data  - INFO - 2026-01-02
+2026-01-02 21:35:52,646 - check data  - INFO - 2026-01-02
+2026-01-02 21:35:52,653 - check data  - INFO - None | from_page=587 | pages=0.5 | evaluation=excellent | misses=3 | note= | date=None | type=new
+2026-01-02 21:35:52,750 - check data  - INFO - 2026-01-02
+2026-01-02 21:36:41,615 - check data  - INFO - 2026-01-02
+2026-01-02 21:36:41,621 - check data  - INFO - None | from_page=586 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:36:41,714 - check data  - INFO - 2026-01-02
+2026-01-02 21:43:54,292 - check data  - INFO - 2026-01-02
+2026-01-02 21:43:54,293 - check data  - INFO - 2
+2026-01-02 21:43:54,300 - check data  - INFO - None | from_page=585 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:43:54,402 - check data  - INFO - 2026-01-02
+2026-01-02 21:44:15,027 - check data  - INFO - 2026-01-02
+2026-01-02 21:44:15,027 - check data  - INFO - 2
+2026-01-02 21:44:15,032 - check data  - INFO - None | from_page=586 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:44:15,128 - check data  - INFO - 2026-01-02
+2026-01-02 21:45:39,887 - check data  - INFO - 2026-01-02
+2026-01-02 21:45:39,888 - check data  - INFO - 2
+2026-01-02 21:45:39,893 - check data  - INFO - None | from_page=585 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-02 21:45:39,988 - check data  - INFO - 2026-01-02
+2026-01-02 21:45:48,278 - check data  - INFO - 2026-01-02
+2026-01-27 20:40:50,110 - check data  - INFO - 2026-01-27
+2026-01-27 20:41:43,534 - check data  - INFO - 2026-01-27
+2026-01-27 20:41:43,535 - check data  - INFO - 0
+2026-01-27 20:41:43,932 - check data  - INFO - None | from_page=578 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-27 20:41:44,041 - check data  - INFO - 2026-01-27
+2026-01-27 20:42:12,254 - check data  - INFO - 2026-01-27
+2026-01-27 20:42:12,255 - check data  - INFO - 2
+2026-01-27 20:42:12,262 - check data  - INFO - None | from_page=568 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:42:12,348 - check data  - INFO - 2026-01-27
+2026-01-27 20:42:48,404 - check data  - INFO - 2026-01-27
+2026-01-27 20:42:48,405 - check data  - INFO - 1
+2026-01-27 20:42:48,412 - check data  - INFO - None | from_page=568 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-27 20:42:48,498 - check data  - INFO - 2026-01-27
+2026-01-27 20:44:05,063 - check data  - INFO - 2026-01-27
+2026-01-27 20:44:05,063 - check data  - INFO - 2
+2026-01-27 20:44:05,071 - check data  - INFO - None | from_page=577 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:44:05,157 - check data  - INFO - 2026-01-27
+2026-01-27 20:44:36,151 - check data  - INFO - 2026-01-27
+2026-01-27 20:44:36,152 - check data  - INFO - 2
+2026-01-27 20:44:36,159 - check data  - INFO - None | from_page=574 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:44:36,251 - check data  - INFO - 2026-01-27
+2026-01-27 20:44:58,319 - check data  - INFO - 2026-01-27
+2026-01-27 20:44:58,319 - check data  - INFO - 2
+2026-01-27 20:44:58,325 - check data  - INFO - None | from_page=36 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:44:58,415 - check data  - INFO - 2026-01-27
+2026-01-27 20:45:33,621 - check data  - INFO - 2026-01-27
+2026-01-27 20:45:33,622 - check data  - INFO - 1
+2026-01-27 20:45:33,628 - check data  - INFO - None | from_page=576 | pages=0.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-27 20:45:33,718 - check data  - INFO - 2026-01-27
+2026-01-27 20:47:15,789 - check data  - INFO - 2026-01-27
+2026-01-27 20:47:15,794 - check data  - INFO - None | from_page=576 | pages=0.5 | evaluation=excellent | misses=2 | note= | date=None | type=new
+2026-01-27 20:47:15,879 - check data  - INFO - 2026-01-27
+2026-01-27 20:47:23,402 - check data  - INFO - 2026-01-27
+2026-01-27 20:47:23,499 - check data  - INFO - 2026-01-27
+2026-01-27 20:48:04,027 - check data  - INFO - 2026-01-27
+2026-01-27 20:48:04,027 - check data  - INFO - 0
+2026-01-27 20:48:04,033 - check data  - INFO - None | from_page=575 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-27 20:48:04,120 - check data  - INFO - 2026-01-27
+2026-01-27 20:48:43,598 - check data  - INFO - 2026-01-27
+2026-01-27 20:48:43,606 - check data  - INFO - None | from_page=572 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:48:43,711 - check data  - INFO - 2026-01-27
+2026-01-27 20:53:58,240 - check data  - INFO - 2026-01-27
+2026-01-27 20:53:58,241 - check data  - INFO - 1
+2026-01-27 20:53:58,246 - check data  - INFO - None | from_page=35 | pages=0.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-27 20:53:58,335 - check data  - INFO - 2026-01-27
+2026-01-27 20:54:34,483 - check data  - INFO - 2026-01-27
+2026-01-27 20:54:34,484 - check data  - INFO - 2
+2026-01-27 20:54:34,489 - check data  - INFO - None | from_page=567 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:54:34,577 - check data  - INFO - 2026-01-27
+2026-01-27 20:54:40,310 - check data  - INFO - 2026-01-27
+2026-01-27 20:54:40,398 - check data  - INFO - 2026-01-27
+2026-01-27 20:55:20,372 - check data  - INFO - 2026-01-27
+2026-01-27 20:55:20,372 - check data  - INFO - 0
+2026-01-27 20:55:20,378 - check data  - INFO - None | from_page=589 | pages=0.5 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-27 20:55:20,468 - check data  - INFO - 2026-01-27
+2026-01-27 20:56:03,167 - check data  - INFO - 2026-01-27
+2026-01-27 20:56:03,175 - check data  - INFO - None | from_page=34 | pages=1.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2026-01-27 20:56:03,261 - check data  - INFO - 2026-01-27
+2026-01-27 20:57:13,575 - check data  - INFO - 2026-01-27
+2026-01-27 20:57:13,576 - check data  - INFO - 1
+2026-01-27 20:57:13,583 - check data  - INFO - None | from_page=575 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-27 20:57:13,670 - check data  - INFO - 2026-01-27
+2026-01-27 20:57:34,375 - check data  - INFO - 2026-01-27
+2026-01-27 20:57:34,376 - check data  - INFO - 2
+2026-01-27 20:57:34,382 - check data  - INFO - None | from_page=571 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:57:34,464 - check data  - INFO - 2026-01-27
+2026-01-27 20:58:40,653 - check data  - INFO - 2026-01-27
+2026-01-27 20:58:40,653 - check data  - INFO - 1
+2026-01-27 20:58:40,658 - check data  - INFO - None | from_page=33 | pages=1.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2026-01-27 20:58:40,743 - check data  - INFO - 2026-01-27
+2026-01-27 20:59:06,303 - check data  - INFO - 2026-01-27
+2026-01-27 20:59:06,304 - check data  - INFO - 1
+2026-01-27 20:59:06,310 - check data  - INFO - None | from_page=567 | pages=0.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-27 20:59:06,399 - check data  - INFO - 2026-01-27
+2026-01-27 20:59:39,175 - check data  - INFO - 2026-01-27
+2026-01-27 20:59:39,176 - check data  - INFO - 2
+2026-01-27 20:59:39,181 - check data  - INFO - None | from_page=583 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 20:59:39,265 - check data  - INFO - 2026-01-27
+2026-01-27 21:00:11,631 - check data  - INFO - 2026-01-27
+2026-01-27 21:00:11,631 - check data  - INFO - 1
+2026-01-27 21:00:11,637 - check data  - INFO - None | from_page=601 | pages=2.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2026-01-27 21:00:11,726 - check data  - INFO - 2026-01-27
+2026-01-27 21:00:52,506 - check data  - INFO - 2026-01-27
+2026-01-27 21:00:52,506 - check data  - INFO - 2
+2026-01-27 21:00:52,511 - check data  - INFO - None | from_page=574 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:00:52,604 - check data  - INFO - 2026-01-27
+2026-01-27 21:01:33,335 - check data  - INFO - 2026-01-27
+2026-01-27 21:01:33,336 - check data  - INFO - 1
+2026-01-27 21:01:33,342 - check data  - INFO - None | from_page=570 | pages=1.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2026-01-27 21:01:33,439 - check data  - INFO - 2026-01-27
+2026-01-27 21:02:13,905 - check data  - INFO - 2026-01-27
+2026-01-27 21:02:13,906 - check data  - INFO - 1
+2026-01-27 21:02:13,913 - check data  - INFO - None | from_page=32 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-27 21:02:14,000 - check data  - INFO - 2026-01-27
+2026-01-27 21:02:42,484 - check data  - INFO - 2026-01-27
+2026-01-27 21:02:42,484 - check data  - INFO - 0
+2026-01-27 21:02:42,490 - check data  - INFO - None | from_page=588 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-01-27 21:02:42,583 - check data  - INFO - 2026-01-27
+2026-01-27 21:05:15,918 - check data  - INFO - 2026-01-27
+2026-01-27 21:05:15,920 - check data  - INFO - 2
+2026-01-27 21:05:15,925 - check data  - INFO - None | from_page=569 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:05:16,016 - check data  - INFO - 2026-01-27
+2026-01-27 21:05:36,387 - check data  - INFO - 2026-01-27
+2026-01-27 21:05:36,387 - check data  - INFO - 1
+2026-01-27 21:05:36,392 - check data  - INFO - None | from_page=31 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-27 21:05:36,482 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:20,497 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:20,498 - check data  - INFO - 2
+2026-01-27 21:06:20,859 - check data  - INFO - None | from_page=566 | pages=0.5 | evaluation=excellent | misses=2 | note= | date=None | type=new
+2026-01-27 21:06:20,943 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:27,772 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:27,859 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:33,005 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:33,093 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:43,485 - check data  - INFO - 2026-01-27
+2026-01-27 21:06:43,593 - check data  - INFO - 2026-01-27
+2026-01-27 21:07:32,739 - check data  - INFO - 2026-01-27
+2026-01-27 21:07:32,740 - check data  - INFO - 2
+2026-01-27 21:07:32,745 - check data  - INFO - None | from_page=573 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:07:32,832 - check data  - INFO - 2026-01-27
+2026-01-27 21:07:48,795 - check data  - INFO - 2026-01-27
+2026-01-27 21:07:48,795 - check data  - INFO - 2
+2026-01-27 21:07:48,800 - check data  - INFO - None | from_page=574 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:07:48,887 - check data  - INFO - 2026-01-27
+2026-01-27 21:07:59,076 - check data  - INFO - 2026-01-27
+2026-01-27 21:07:59,170 - check data  - INFO - 2026-01-27
+2026-01-27 21:10:55,761 - check data  - INFO - 2026-01-27
+2026-01-27 21:10:55,761 - check data  - INFO - 2
+2026-01-27 21:10:55,769 - check data  - INFO - None | from_page=566 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:10:55,857 - check data  - INFO - 2026-01-27
+2026-01-27 21:11:01,371 - check data  - INFO - 2026-01-27
+2026-01-27 21:11:01,463 - check data  - INFO - 2026-01-27
+2026-01-27 21:11:40,522 - check data  - INFO - 2026-01-27
+2026-01-27 21:11:40,522 - check data  - INFO - 1
+2026-01-27 21:11:40,528 - check data  - INFO - None | from_page=29 | pages=2.0 | evaluation=very good | misses=3 | note= | date=None | type=new
+2026-01-27 21:11:40,613 - check data  - INFO - 2026-01-27
+2026-01-27 21:11:48,993 - check data  - INFO - 2026-01-27
+2026-01-27 21:11:49,094 - check data  - INFO - 2026-01-27
+2026-01-27 21:12:19,544 - check data  - INFO - 2026-01-27
+2026-01-27 21:12:19,544 - check data  - INFO - 1
+2026-01-27 21:12:19,550 - check data  - INFO - None | from_page=566 | pages=0.5 | evaluation=very good | misses=3 | note= | date=None | type=new
+2026-01-27 21:12:19,638 - check data  - INFO - 2026-01-27
+2026-01-27 21:12:28,327 - check data  - INFO - 2026-01-27
+2026-01-27 21:12:28,414 - check data  - INFO - 2026-01-27
+2026-01-27 21:13:00,947 - check data  - INFO - 2026-01-27
+2026-01-27 21:13:00,947 - check data  - INFO - 2
+2026-01-27 21:13:00,952 - check data  - INFO - None | from_page=567 | pages=1.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-01-27 21:13:01,038 - check data  - INFO - 2026-01-27
+2026-01-27 21:13:37,054 - check data  - INFO - 2026-01-27
+2026-01-27 21:13:37,055 - check data  - INFO - 2
+2026-01-27 21:13:37,059 - check data  - INFO - None | from_page=565 | pages=0.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:13:37,147 - check data  - INFO - 2026-01-27
+2026-01-27 21:14:14,371 - check data  - INFO - 2026-01-27
+2026-01-27 21:14:14,372 - check data  - INFO - 1
+2026-01-27 21:14:14,377 - check data  - INFO - None | from_page=565 | pages=0.5 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-01-27 21:14:14,461 - check data  - INFO - 2026-01-27
+2026-01-27 21:14:42,533 - check data  - INFO - 2026-01-27
+2026-01-27 21:14:42,538 - check data  - INFO - None | from_page=27 | pages=2.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2026-01-27 21:14:42,628 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:07,923 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:07,924 - check data  - INFO - 2
+2026-01-27 21:15:07,928 - check data  - INFO - None | from_page=601 | pages=0.5 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-01-27 21:15:08,016 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:16,482 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:16,576 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:30,080 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:30,166 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:38,940 - check data  - INFO - 2026-01-27
+2026-01-27 21:15:39,027 - check data  - INFO - 2026-01-27
+2026-01-27 21:16:31,183 - check data  - INFO - 2026-01-27
+2026-01-27 21:16:31,183 - check data  - INFO - 2
+2026-01-27 21:16:31,189 - check data  - INFO - None | from_page=33 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:16:31,275 - check data  - INFO - 2026-01-27
+2026-01-27 21:17:06,758 - check data  - INFO - 2026-01-27
+2026-01-27 21:17:06,758 - check data  - INFO - 2
+2026-01-27 21:17:06,764 - check data  - INFO - None | from_page=545 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:17:06,849 - check data  - INFO - 2026-01-27
+2026-01-27 21:17:54,293 - check data  - INFO - 2026-01-27
+2026-01-27 21:17:54,295 - check data  - INFO - 2
+2026-01-27 21:17:54,300 - check data  - INFO - None | from_page=32 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:17:54,393 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:13,946 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:13,948 - check data  - INFO - 2
+2026-01-27 21:42:13,954 - check data  - INFO - None | from_page=546 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:42:14,041 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:20,166 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:20,256 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:28,270 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:28,382 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:34,119 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:34,222 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:56,281 - check data  - INFO - 2026-01-27
+2026-01-27 21:42:56,281 - check data  - INFO - 2
+2026-01-27 21:42:56,287 - check data  - INFO - None | from_page=31 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:42:56,374 - check data  - INFO - 2026-01-27
+2026-01-27 21:43:22,329 - check data  - INFO - 2026-01-27
+2026-01-27 21:43:22,330 - check data  - INFO - 2
+2026-01-27 21:43:22,336 - check data  - INFO - None | from_page=543 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:43:22,425 - check data  - INFO - 2026-01-27
+2026-01-27 21:43:46,198 - check data  - INFO - 2026-01-27
+2026-01-27 21:43:46,199 - check data  - INFO - 2
+2026-01-27 21:43:46,207 - check data  - INFO - None | from_page=30 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:43:46,304 - check data  - INFO - 2026-01-27
+2026-01-27 21:43:54,879 - check data  - INFO - 2026-01-27
+2026-01-27 21:43:54,970 - check data  - INFO - 2026-01-27
+2026-01-27 21:44:12,829 - check data  - INFO - 2026-01-27
+2026-01-27 21:44:12,830 - check data  - INFO - 2
+2026-01-27 21:44:12,835 - check data  - INFO - None | from_page=543 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:44:12,922 - check data  - INFO - 2026-01-27
+2026-01-27 21:44:33,655 - check data  - INFO - 2026-01-27
+2026-01-27 21:44:33,657 - check data  - INFO - 2
+2026-01-27 21:44:33,661 - check data  - INFO - None | from_page=542 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:44:33,749 - check data  - INFO - 2026-01-27
+2026-01-27 21:44:43,857 - check data  - INFO - 2026-01-27
+2026-01-27 21:44:43,946 - check data  - INFO - 2026-01-27
+2026-01-27 21:45:24,914 - check data  - INFO - 2026-01-27
+2026-01-27 21:45:24,914 - check data  - INFO - 2
+2026-01-27 21:45:24,920 - check data  - INFO - None | from_page=27 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:45:25,008 - check data  - INFO - 2026-01-27
+2026-01-27 21:45:35,740 - check data  - INFO - 2026-01-27
+2026-01-27 21:45:35,834 - check data  - INFO - 2026-01-27
+2026-01-27 21:46:01,397 - check data  - INFO - 2026-01-27
+2026-01-27 21:46:01,404 - check data  - INFO - None | from_page=562 | pages=20.0 | evaluation=excellent | misses=0 | note= | date=None | type=old
+2026-01-27 21:46:01,493 - check data  - INFO - 2026-01-27
+2026-01-27 21:46:35,884 - check data  - INFO - 2026-01-27
+2026-01-27 21:46:35,890 - check data  - INFO - None | from_page=562 | pages=20.0 | evaluation=excellent | misses=1 | note= | date=None | type=old
+2026-01-27 21:46:35,976 - check data  - INFO - 2026-01-27
+2026-01-27 21:46:47,473 - check data  - INFO - 2026-01-27
+2026-01-27 21:46:47,569 - check data  - INFO - 2026-01-27
+2026-01-27 21:47:07,327 - check data  - INFO - 2026-01-27
+2026-01-27 21:47:07,328 - check data  - INFO - 2
+2026-01-27 21:47:07,334 - check data  - INFO - None | from_page=241 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:47:07,420 - check data  - INFO - 2026-01-27
+2026-01-27 21:47:55,257 - check data  - INFO - 2026-01-27
+2026-01-27 21:47:55,257 - check data  - INFO - 1
+2026-01-27 21:47:55,261 - check data  - INFO - None | from_page=580 | pages=1.0 | evaluation=very good | misses=0 | note= | date=None | type=old
+2026-01-27 21:47:55,374 - check data  - INFO - 2026-01-27
+2026-01-27 21:48:15,492 - check data  - INFO - 2026-01-27
+2026-01-27 21:48:15,493 - check data  - INFO - 2
+2026-01-27 21:48:15,498 - check data  - INFO - None | from_page=26 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:48:15,585 - check data  - INFO - 2026-01-27
+2026-01-27 21:48:34,328 - check data  - INFO - 2026-01-27
+2026-01-27 21:48:34,328 - check data  - INFO - 1
+2026-01-27 21:48:34,335 - check data  - INFO - None | from_page=24 | pages=2.0 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-27 21:48:34,424 - check data  - INFO - 2026-01-27
+2026-01-27 21:48:55,950 - check data  - INFO - 2026-01-27
+2026-01-27 21:48:55,951 - check data  - INFO - 2
+2026-01-27 21:48:55,957 - check data  - INFO - None | from_page=239 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:48:56,042 - check data  - INFO - 2026-01-27
+2026-01-27 21:49:31,058 - check data  - INFO - 2026-01-27
+2026-01-27 21:49:31,058 - check data  - INFO - 1
+2026-01-27 21:49:31,064 - check data  - INFO - None | from_page=578 | pages=1.5 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-01-27 21:49:31,153 - check data  - INFO - 2026-01-27
+2026-01-27 21:49:36,554 - check data  - INFO - 2026-01-27
+2026-01-27 21:49:36,649 - check data  - INFO - 2026-01-27
+2026-01-27 21:50:02,449 - check data  - INFO - 2026-01-27
+2026-01-27 21:50:02,449 - check data  - INFO - 2
+2026-01-27 21:50:02,455 - check data  - INFO - None | from_page=22 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:50:02,548 - check data  - INFO - 2026-01-27
+2026-01-27 21:50:24,993 - check data  - INFO - 2026-01-27
+2026-01-27 21:50:24,993 - check data  - INFO - 2
+2026-01-27 21:50:24,998 - check data  - INFO - None | from_page=235 | pages=3.5 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:50:25,090 - check data  - INFO - 2026-01-27
+2026-01-27 21:50:48,990 - check data  - INFO - 2026-01-27
+2026-01-27 21:50:48,990 - check data  - INFO - 2
+2026-01-27 21:50:48,999 - check data  - INFO - None | from_page=575 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-01-27 21:50:49,103 - check data  - INFO - 2026-01-27
+2026-03-05 16:48:56,725 - check data  - INFO - 2026-03-05
+2026-03-05 16:55:33,496 - check data  - INFO - 2026-03-05
+2026-03-05 16:55:33,608 - check data  - INFO - 2026-03-05
+2026-03-05 16:56:28,829 - check data  - INFO - 2026-03-05
+2026-03-05 16:56:28,919 - check data  - INFO - 2026-03-05
+2026-03-05 16:56:41,503 - check data  - INFO - 2026-03-05
+2026-03-05 16:56:41,609 - check data  - INFO - 2026-03-05
+2026-03-05 16:56:57,789 - check data  - INFO - 2026-03-05
+2026-03-05 16:56:57,884 - check data  - INFO - 2026-03-05
+2026-03-05 16:59:16,237 - check data  - INFO - 2026-03-05
+2026-03-05 16:59:16,331 - check data  - INFO - 2026-03-05
+2026-03-05 17:01:51,893 - check data  - INFO - 2026-03-05
+2026-03-05 17:01:51,992 - check data  - INFO - 2026-03-05
+2026-03-05 17:01:58,101 - check data  - INFO - 2026-03-05
+2026-03-05 17:01:58,198 - check data  - INFO - 2026-03-05
+2026-03-05 17:02:18,956 - check data  - INFO - 2026-03-05
+2026-03-05 17:02:19,054 - check data  - INFO - 2026-03-05
+2026-03-05 17:05:47,811 - check data  - INFO - 2026-03-05
+2026-03-05 17:05:47,812 - check data  - INFO - 1
+2026-03-05 17:05:48,207 - check data  - INFO - None | from_page=9 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:05:48,303 - check data  - INFO - 2026-03-05
+2026-03-05 17:06:44,525 - check data  - INFO - 2026-03-05
+2026-03-05 17:06:44,526 - check data  - INFO - 1
+2026-03-05 17:06:44,531 - check data  - INFO - None | from_page=44 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:06:44,624 - check data  - INFO - 2026-03-05
+2026-03-05 17:07:21,154 - check data  - INFO - 2026-03-05
+2026-03-05 17:07:21,154 - check data  - INFO - 0
+2026-03-05 17:07:21,160 - check data  - INFO - None | from_page=52 | pages=1.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-03-05 17:07:21,245 - check data  - INFO - 2026-03-05
+2026-03-05 17:08:12,654 - check data  - INFO - 2026-03-05
+2026-03-05 17:08:12,656 - check data  - INFO - 2
+2026-03-05 17:08:12,666 - check data  - INFO - None | from_page=8 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:08:12,757 - check data  - INFO - 2026-03-05
+2026-03-05 17:08:47,023 - check data  - INFO - 2026-03-05
+2026-03-05 17:08:47,024 - check data  - INFO - 2
+2026-03-05 17:08:47,029 - check data  - INFO - None | from_page=43 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:08:47,118 - check data  - INFO - 2026-03-05
+2026-03-05 17:09:27,235 - check data  - INFO - 2026-03-05
+2026-03-05 17:09:27,236 - check data  - INFO - 1
+2026-03-05 17:09:27,243 - check data  - INFO - None | from_page=68 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:09:27,330 - check data  - INFO - 2026-03-05
+2026-03-05 17:09:55,193 - check data  - INFO - 2026-03-05
+2026-03-05 17:09:55,193 - check data  - INFO - 2
+2026-03-05 17:09:55,199 - check data  - INFO - None | from_page=51 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:09:55,285 - check data  - INFO - 2026-03-05
+2026-03-05 17:10:17,487 - check data  - INFO - 2026-03-05
+2026-03-05 17:10:17,488 - check data  - INFO - 2
+2026-03-05 17:10:17,493 - check data  - INFO - None | from_page=10 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:10:17,577 - check data  - INFO - 2026-03-05
+2026-03-05 17:10:48,662 - check data  - INFO - 2026-03-05
+2026-03-05 17:10:48,663 - check data  - INFO - 2
+2026-03-05 17:10:48,668 - check data  - INFO - None | from_page=5 | pages=3.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:10:48,752 - check data  - INFO - 2026-03-05
+2026-03-05 17:11:37,142 - check data  - INFO - 2026-03-05
+2026-03-05 17:11:37,143 - check data  - INFO - 2
+2026-03-05 17:11:37,150 - check data  - INFO - None | from_page=41 | pages=2.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:11:37,230 - check data  - INFO - 2026-03-05
+2026-03-05 17:12:12,774 - check data  - INFO - 2026-03-05
+2026-03-05 17:12:12,774 - check data  - INFO - 1
+2026-03-05 17:12:12,783 - check data  - INFO - None | from_page=65 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:12:12,902 - check data  - INFO - 2026-03-05
+2026-03-05 17:13:15,580 - check data  - INFO - 2026-03-05
+2026-03-05 17:13:15,582 - check data  - INFO - 2
+2026-03-05 17:13:15,588 - check data  - INFO - None | from_page=4 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:13:15,674 - check data  - INFO - 2026-03-05
+2026-03-05 17:14:35,996 - check data  - INFO - 2026-03-05
+2026-03-05 17:14:35,997 - check data  - INFO - 2
+2026-03-05 17:14:36,004 - check data  - INFO - None | from_page=40 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:14:36,094 - check data  - INFO - 2026-03-05
+2026-03-05 17:15:04,072 - check data  - INFO - 2026-03-05
+2026-03-05 17:15:04,073 - check data  - INFO - 2
+2026-03-05 17:15:04,079 - check data  - INFO - None | from_page=64 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:15:04,170 - check data  - INFO - 2026-03-05
+2026-03-05 17:15:16,930 - check data  - INFO - 2026-03-05
+2026-03-05 17:15:16,930 - check data  - INFO - 2
+2026-03-05 17:15:16,936 - check data  - INFO - None | from_page=49 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:15:17,020 - check data  - INFO - 2026-03-05
+2026-03-05 17:15:55,881 - check data  - INFO - 2026-03-05
+2026-03-05 17:15:55,888 - check data  - INFO - None | from_page=304 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:15:55,971 - check data  - INFO - 2026-03-05
+2026-03-05 17:17:17,400 - check data  - INFO - 2026-03-05
+2026-03-05 17:17:17,400 - check data  - INFO - 2
+2026-03-05 17:17:17,406 - check data  - INFO - None | from_page=38 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:17:17,488 - check data  - INFO - 2026-03-05
+2026-03-05 17:18:42,133 - check data  - INFO - 2026-03-05
+2026-03-05 17:18:42,134 - check data  - INFO - 2
+2026-03-05 17:18:42,139 - check data  - INFO - None | from_page=60 | pages=4.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:18:42,226 - check data  - INFO - 2026-03-05
+2026-03-05 17:18:51,176 - check data  - INFO - 2026-03-05
+2026-03-05 17:18:51,271 - check data  - INFO - 2026-03-05
+2026-03-05 17:19:02,437 - check data  - INFO - 2026-03-05
+2026-03-05 17:19:02,529 - check data  - INFO - 2026-03-05
+2026-03-05 17:19:09,655 - check data  - INFO - 2026-03-05
+2026-03-05 17:19:09,743 - check data  - INFO - 2026-03-05
+2026-03-05 17:20:35,005 - check data  - INFO - 2026-03-05
+2026-03-05 17:20:35,006 - check data  - INFO - 2
+2026-03-05 17:20:35,011 - check data  - INFO - None | from_page=43 | pages=6.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:20:35,096 - check data  - INFO - 2026-03-05
+2026-03-05 17:21:01,190 - check data  - INFO - 2026-03-05
+2026-03-05 17:21:01,190 - check data  - INFO - 2
+2026-03-05 17:21:01,196 - check data  - INFO - None | from_page=7 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:21:01,287 - check data  - INFO - 2026-03-05
+2026-03-05 17:21:32,430 - check data  - INFO - 2026-03-05
+2026-03-05 17:21:32,431 - check data  - INFO - 2
+2026-03-05 17:21:32,439 - check data  - INFO - None | from_page=37 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:21:32,528 - check data  - INFO - 2026-03-05
+2026-03-05 17:22:08,645 - check data  - INFO - 2026-03-05
+2026-03-05 17:22:08,646 - check data  - INFO - 2
+2026-03-05 17:22:08,651 - check data  - INFO - None | from_page=38 | pages=6.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:22:08,737 - check data  - INFO - 2026-03-05
+2026-03-05 17:22:31,854 - check data  - INFO - 2026-03-05
+2026-03-05 17:22:31,854 - check data  - INFO - 1
+2026-03-05 17:22:31,860 - check data  - INFO - None | from_page=303 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:22:31,945 - check data  - INFO - 2026-03-05
+2026-03-05 17:23:17,656 - check data  - INFO - 2026-03-05
+2026-03-05 17:23:17,658 - check data  - INFO - 0
+2026-03-05 17:23:17,666 - check data  - INFO - None | from_page=35 | pages=2.0 | evaluation=good | misses=3 | note= | date=None | type=new
+2026-03-05 17:23:17,762 - check data  - INFO - 2026-03-05
+2026-03-05 17:24:01,871 - check data  - INFO - 2026-03-05
+2026-03-05 17:24:01,872 - check data  - INFO - 1
+2026-03-05 17:24:01,884 - check data  - INFO - None | from_page=38 | pages=2.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:24:01,973 - check data  - INFO - 2026-03-05
+2026-03-05 17:24:09,468 - check data  - INFO - 2026-03-05
+2026-03-05 17:24:09,566 - check data  - INFO - 2026-03-05
+2026-03-05 17:25:21,330 - check data  - INFO - 2026-03-05
+2026-03-05 17:25:21,330 - check data  - INFO - 1
+2026-03-05 17:25:21,337 - check data  - INFO - None | from_page=5 | pages=2.0 | evaluation=very good | misses=3 | note= | date=None | type=new
+2026-03-05 17:25:21,427 - check data  - INFO - 2026-03-05
+2026-03-05 17:25:42,581 - check data  - INFO - 2026-03-05
+2026-03-05 17:25:42,582 - check data  - INFO - 1
+2026-03-05 17:25:42,589 - check data  - INFO - None | from_page=301 | pages=2.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:25:42,682 - check data  - INFO - 2026-03-05
+2026-03-05 17:25:54,563 - check data  - INFO - 2026-03-05
+2026-03-05 17:25:54,650 - check data  - INFO - 2026-03-05
+2026-03-05 17:27:30,449 - check data  - INFO - 2026-03-05
+2026-03-05 17:27:30,450 - check data  - INFO - 2
+2026-03-05 17:27:30,455 - check data  - INFO - None | from_page=32 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:27:30,537 - check data  - INFO - 2026-03-05
+2026-03-05 17:27:45,045 - check data  - INFO - 2026-03-05
+2026-03-05 17:27:45,133 - check data  - INFO - 2026-03-05
+2026-03-05 17:28:00,639 - check data  - INFO - 2026-03-05
+2026-03-05 17:28:00,640 - check data  - INFO - 0
+2026-03-05 17:28:00,646 - check data  - INFO - None | from_page=31 | pages=1.0 | evaluation=good | misses=1 | note= | date=None | type=new
+2026-03-05 17:28:00,728 - check data  - INFO - 2026-03-05
+2026-03-05 17:28:34,181 - check data  - INFO - 2026-03-05
+2026-03-05 17:28:34,181 - check data  - INFO - 2
+2026-03-05 17:28:34,187 - check data  - INFO - None | from_page=29 | pages=2.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:28:34,276 - check data  - INFO - 2026-03-05
+2026-03-05 17:28:51,457 - check data  - INFO - 2026-03-05
+2026-03-05 17:28:51,457 - check data  - INFO - 2
+2026-03-05 17:28:51,463 - check data  - INFO - None | from_page=53 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:28:51,552 - check data  - INFO - 2026-03-05
+2026-03-05 17:30:19,385 - check data  - INFO - 2026-03-05
+2026-03-05 17:30:19,386 - check data  - INFO - 2
+2026-03-05 17:30:19,392 - check data  - INFO - None | from_page=560 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:30:19,480 - check data  - INFO - 2026-03-05
+2026-03-05 17:30:44,691 - check data  - INFO - 2026-03-05
+2026-03-05 17:30:44,691 - check data  - INFO - 2
+2026-03-05 17:30:44,697 - check data  - INFO - None | from_page=1 | pages=4.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:30:44,782 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:03,644 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:03,645 - check data  - INFO - 2
+2026-03-05 17:31:03,650 - check data  - INFO - None | from_page=27 | pages=2.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:31:03,735 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:31,808 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:31,809 - check data  - INFO - 2
+2026-03-05 17:31:31,815 - check data  - INFO - None | from_page=50 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:31:31,897 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:40,167 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:40,264 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:46,966 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:47,061 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:55,177 - check data  - INFO - 2026-03-05
+2026-03-05 17:31:55,271 - check data  - INFO - 2026-03-05
+2026-03-05 17:32:33,168 - check data  - INFO - 2026-03-05
+2026-03-05 17:32:33,169 - check data  - INFO - 2
+2026-03-05 17:32:33,174 - check data  - INFO - None | from_page=299 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:32:33,259 - check data  - INFO - 2026-03-05
+2026-03-05 17:32:44,774 - check data  - INFO - 2026-03-05
+2026-03-05 17:32:44,866 - check data  - INFO - 2026-03-05
+2026-03-05 17:33:03,252 - check data  - INFO - 2026-03-05
+2026-03-05 17:33:03,252 - check data  - INFO - 2
+2026-03-05 17:33:03,259 - check data  - INFO - None | from_page=26 | pages=1.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:33:03,355 - check data  - INFO - 2026-03-05
+2026-03-05 17:33:12,330 - check data  - INFO - 2026-03-05
+2026-03-05 17:33:12,427 - check data  - INFO - 2026-03-05
+2026-03-05 17:33:50,955 - check data  - INFO - 2026-03-05
+2026-03-05 17:33:50,956 - check data  - INFO - 2
+2026-03-05 17:33:50,960 - check data  - INFO - None | from_page=11 | pages=4.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:33:51,048 - check data  - INFO - 2026-03-05
+2026-03-05 17:34:01,185 - check data  - INFO - 2026-03-05
+2026-03-05 17:34:01,288 - check data  - INFO - 2026-03-05
+2026-03-05 17:34:25,546 - check data  - INFO - 2026-03-05
+2026-03-05 17:34:25,547 - check data  - INFO - 1
+2026-03-05 17:34:25,555 - check data  - INFO - None | from_page=599 | pages=1.0 | evaluation=very good | misses=1 | note= | date=None | type=new
+2026-03-05 17:34:25,647 - check data  - INFO - 2026-03-05
+2026-03-05 17:35:13,386 - check data  - INFO - 2026-03-05
+2026-03-05 17:35:13,387 - check data  - INFO - 0
+2026-03-05 17:35:13,393 - check data  - INFO - None | from_page=297 | pages=2.0 | evaluation=good | misses=2 | note= | date=None | type=new
+2026-03-05 17:35:13,487 - check data  - INFO - 2026-03-05
+2026-03-05 17:35:39,265 - check data  - INFO - 2026-03-05
+2026-03-05 17:35:39,266 - check data  - INFO - 2
+2026-03-05 17:35:39,272 - check data  - INFO - None | from_page=23 | pages=3.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:35:39,353 - check data  - INFO - 2026-03-05
+2026-03-05 17:35:46,093 - check data  - INFO - 2026-03-05
+2026-03-05 17:35:46,181 - check data  - INFO - 2026-03-05
+2026-03-05 17:36:28,988 - check data  - INFO - 2026-03-05
+2026-03-05 17:36:28,989 - check data  - INFO - 2
+2026-03-05 17:36:28,996 - check data  - INFO - None | from_page=1 | pages=10.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:36:29,079 - check data  - INFO - 2026-03-05
+2026-03-05 17:36:46,036 - check data  - INFO - 2026-03-05
+2026-03-05 17:36:46,126 - check data  - INFO - 2026-03-05
+2026-03-05 17:37:18,721 - check data  - INFO - 2026-03-05
+2026-03-05 17:37:18,722 - check data  - INFO - 2
+2026-03-05 17:37:18,728 - check data  - INFO - None | from_page=27 | pages=4.0 | evaluation=excellent | misses=1 | note= | date=None | type=new
+2026-03-05 17:37:18,811 - check data  - INFO - 2026-03-05
+2026-03-05 17:37:50,480 - check data  - INFO - 2026-03-05
+2026-03-05 17:37:50,480 - check data  - INFO - 0
+2026-03-05 17:37:50,487 - check data  - INFO - None | from_page=558 | pages=1.0 | evaluation=good | misses=1 | note= | date=None | type=new
+2026-03-05 17:37:50,573 - check data  - INFO - 2026-03-05
+2026-03-05 17:38:06,571 - check data  - INFO - 2026-03-05
+2026-03-05 17:38:06,662 - check data  - INFO - 2026-03-05
+2026-03-05 17:38:57,511 - check data  - INFO - 2026-03-05
+2026-03-05 17:38:57,520 - check data  - INFO - None | from_page=47 | pages=3.0 | evaluation=excellent | misses=0 | note= | date=None | type=new
+2026-03-05 17:38:57,605 - check data  - INFO - 2026-03-05
+2026-03-05 17:39:48,280 - check data  - INFO - 2026-03-05
+2026-03-05 17:39:48,289 - check data  - INFO - None | from_page=24 | pages=3.0 | evaluation=very good | misses=2 | note= | date=None | type=new
+2026-03-05 17:39:48,377 - check data  - INFO - 2026-03-05
+2026-03-05 17:40:10,728 - check data  - INFO - 2026-03-05
+2026-03-05 17:40:10,735 - check data  - INFO - None | from_page=557 | pages=1.0 | evaluation=very good | misses=0 | note= | date=None | type=new
+2026-03-05 17:40:10,826 - check data  - INFO - 2026-03-05
+2026-07-04 12:35:46,780 - check data  - INFO - 2026-07-04

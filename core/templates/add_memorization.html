@@ -4,52 +4,113 @@
 <link rel="stylesheet" href="{% static 'css/add_memorization.css' %}">
 {% endblock %}
 {% block body %}
-<form action="" method="post" class="memorization-form">
-    {% csrf_token %}
-    <div class="first-row">
-
-        <select name="student" required class="relement">
-            <option value="">-- أختار الطالب --</option>
-            {% for st in students %}
-            <option value="{{ st.student_id }}">
-                {{ st.profile.first_name }} {{ st.profile.middle_name }} {{ st.profile.last_name }}
-            </option>
-            {% endfor %}
-        </select>
-        {{form.from_page}}
-        {{form.to_page}}
-        {{form.from_verse}}
-        {{form.to_verse}}
-    </div>
-    <div class="secand-row">
-        {{form.number_of_misses}}
-        <select name="evaluation" required>
-            <option value="">-- التقيم --</option>
-            <option value="good"> جيد </option>
-            <option value="very good">جيد جدا</option>
-            <option value="excellen">ممتاز</option>
-            <option value="did not memorize">لم يسمع</option>
-        </select>
-        <select name="memorization_type" placeholder="-- نوع التسميع --">
-            <option value="">-- نوع التسميع --</option>
-            <option value="new">قديم</option>
-            <option value="old"> جديد</option>
-            <option value="old plus new"> قديم و جديد</option>
-        </select>
-    </div>
-    <div class="final-row">
-        {{form.note}}
-    </div>
-    <div></div>
+<main>
     {%if messages%}
     {%for message in messages%}
     <span class="{{message.tags}}-message">{{message}}</span>
     {% endfor %}
     {% endif %}
-    <div class="submit-button">
-        <button type="submit">تسجيل التسميع</button>
+    <div class="add_memorization">
+        <form action="" method="post">
+            {% csrf_token %}
+            <div class="input-set">
+                <select name="student" required class='form-input'>
+                    <option value="">-- أختار الطالب --</option>
+                    {% for st in students %}
+                    <option value="{{ st.0 }}">
+                        {{ st.1 }} {{ st.2 }} {{ st.3 }}
+                    </option>
+                    {% endfor %}
+                </select>
+                {{form.from_page}}
+                {{form.pages}}
+            </div>
+            <div class="input-set">
+                {{form.number_of_misses}}
+                <select name="evaluation" required class="form-input">
+                    <option value="">-- التقيم --</option>
+                    <option value="good"> جيد </option>
+                    <option value="very good">جيد جدا</option>
+                    <option value="excellent">ممتاز</option>
+                    <option value="did not memorize">لم يسمع</option>
+                </select>
+                <select name="memorization_type" placeholder="-- نوع التسميع --" class="form-input">
+                    <option value="">-- نوع التسميع --</option>
+                    <option value="old">قديم</option>
+                    <option value="new"> جديد</option>
+                </select>
+            </div>
+            <div class="input-set">
+                {{ form.number_of_try }}
+                {{ form.manual_points }}
+            </div>
+            {{form.note}}
+
+            <div class="submit-button">
+                <button type="submit">تسجيل التسميع</button>
+            </div>
+
+        </form>
     </div>
+    <div class="student-info">
 
-</form>
+        <div class="show-student-details">
+            <div class="table-header">
+                <span class="column-header">الترتيب</span>
 
+                <span class="column-header">اسم الطالب</span>
+                <span class="column-header">عدد صفحات التسميع </span>
+                <span class="column-header">عدد النقاط</span>
+                <span class="column-header">عدد ايام الغياب</span>
+            </div>
+            {% for st in students %}
+            <div class="table-row">
+                <div class="card">{{st.7}} </div>
+                <div class="card" id="name">{{ st.1 }} {{ st.2 }} {{ st.3 }}</div>
+                <div class="card">{{ st.4 }}</div>
+                <div class="card">{{ st.6 }}</div>
+
+                <div class="card">{{ st.5 }}</div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="absense-check">
+            <div class="table-header">
+                <span class="column-header">تسجيل الغياب</span>
+            </div>
+            <form method="post">
+                {% csrf_token %}
+                {% for st in students %}
+                <div class="table-row">
+                    <div class="card">
+                        <span class="temp-span">{{st.7}}</span>
+                        <input type="checkbox" name="absense" value="{{st.0}}" {{absencse_form}}>
+                    </div>
+                </div>
+                {% endfor %}
+                <button type="submit">تسجيل</button>
+            </form>
+        </div>
+        <div class="add-point">
+            <div class="table-header">
+                <span class="column-header">أضافة نقاط</span>
+            </div>
+            {% for st in students %}
+            <div class="table-row">
+                <div class="point-card">
+                    <form method="post">
+                        {% csrf_token %}
+
+                        <input type="number" name="add_point_{{st.0}}" placeholder='نقاط'>
+                        <input type="text" name="add_point_note_{{st.0}}" id="add-point-note"
+                            placeholder=" {{st.7}} ملاحظة">
+                        <button type="submit" class="inline-button">تسجيل</button>
+                    </form>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</main>
 {% endblock %}
